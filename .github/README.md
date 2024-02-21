@@ -15,10 +15,10 @@ git clone https://github.com/ivuorinen/cheatsheet-tldr.git ~/.cheat/cheatsheets/
 Configure your `cheat.yaml` to include the cheatsheets:
 
 ```yaml
-  - name: tldr
-    path: ~/.cheat/cheatsheets/tldr
-    tags: [tldr]
-    readonly: true
+- name: tldr
+  path: ~/.cheat/cheatsheets/tldr/tldr
+  tags: [tldr]
+  readonly: true
 ```
 
 ## Usage
@@ -33,4 +33,4 @@ cheat --tags tldr
 ## License
 
 Files under `.github/` are licensed under the [MIT License](LICENSE.md).
-TLDR pages licensed under [CC-BY-4.0](https://github.com/tldr-pages/tldr/blob/main/LICENSE.md).
+TLDR pages under `tldr/` licensed under [CC-BY-4.0](https://github.com/tldr-pages/tldr/blob/main/LICENSE.md).
