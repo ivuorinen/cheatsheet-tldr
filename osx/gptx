@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gptx
+
+> This command is an alias of GNU `ptx`.
+
+- View documentation for the original command:
+
+`tldr -p linux ptx`

@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, netbsd]
+source: https://github.com/tldr-pages/tldr.git
+---
+# chfn
+
+> This command is an alias of `chpass`.
+
+- View documentation for the original command:
+
+`tldr chpass`

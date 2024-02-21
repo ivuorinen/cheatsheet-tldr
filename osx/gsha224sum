@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gsha224sum
+
+> This command is an alias of GNU `sha224sum`.
+
+- View documentation for the original command:
+
+`tldr -p linux sha224sum`

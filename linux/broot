@@ -1,0 +1,14 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# broot
+
+> Navigate directory trees interactively.
+> See also: `br`.
+> More information: <https://github.com/Canop/broot>.
+
+- Install or reinstall the `br` shell function:
+
+`broot --install`

@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# hub init
+
+> Initializes a new local Git repository.
+> More information: <https://hub.github.com/hub-init.1.html>.
+
+- Initialize a new local repository:
+
+`hub init`

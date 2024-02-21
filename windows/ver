@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ver
+
+> Display the current Windows or MS-DOS version number.
+> More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/ver>.
+
+- Display the current version number:
+
+`ver`

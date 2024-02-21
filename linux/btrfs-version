@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# btrfs version
+
+> Display btrfs-progs version.
+> More information: <https://btrfs.readthedocs.io/en/latest/btrfs.html>.
+
+- Display help:
+
+`btrfs version --help`
+
+- Display btrfs-progs version:
+
+`btrfs version`

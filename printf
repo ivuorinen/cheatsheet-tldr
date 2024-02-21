@@ -1,0 +1,34 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# printf
+
+> Format and print text.
+> More information: <https://www.gnu.org/software/coreutils/printf>.
+
+- Print a text message:
+
+`printf "{{%s
+}}" "{{Hello world}}"`
+
+- Print an integer in bold blue:
+
+`printf "{{[1;34m%.3d[0m
+}}" {{42}}`
+
+- Print a float number with the Unicode Euro sign:
+
+`printf "{{€ %.2f
+}}" {{123.4}}`
+
+- Print a text message composed with environment variables:
+
+`printf "{{var1: %s	var2: %s
+}}" "{{$VAR1}}" "{{$VAR2}}"`
+
+- Store a formatted message in a variable (does not work on zsh):
+
+`printf -v {{myvar}} {{"This is %s = %d
+" "a year" 2016}}`

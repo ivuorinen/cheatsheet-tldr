@@ -1,0 +1,25 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# choco source
+
+> Manage sources for packages with Chocolatey.
+> More information: <https://chocolatey.org/docs/commands-source>.
+
+- List currently available sources:
+
+`choco source list`
+
+- Add a new package source:
+
+`choco source add --name {{name}} --source {{url}}`
+
+- Add a new package source with credentials:
+
+`choco source add --name {{name}} --source {{url}} --user {{username}} --password {{password}}`
+
+- Add a new package source with a client certificate:
+
+`choco source add --name {{name}} --source {{url}} --cert {{path	o

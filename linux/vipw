@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# vipw
+
+> Edit the password file.
+> More information: <https://manned.org/vipw>.
+
+- Edit the password file:
+
+`vipw`
+
+- Display version:
+
+`vipw --version`

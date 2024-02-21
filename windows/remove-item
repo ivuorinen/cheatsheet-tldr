@@ -1,0 +1,34 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# Remove-Item
+
+> Delete files, folders, as well as registry keys and subkeys.
+> This command can only be run through PowerShell.
+> More information: <https://learn.microsoft.com/powershell/module/microsoft.powershell.management/remove-item>.
+
+- Remove specific files or registry keys (without subkeys):
+
+`Remove-Item {{path	oile_or_key1 , path	oile_or_key2 ...}}`
+
+- Remove hidden or read-only files:
+
+`Remove-Item -Force {{path	oile1 , path	oile2 ...}}`
+
+- Remove specific files or registry keys interactively prompting before each removal:
+
+`Remove-Item -Confirm {{path	oile_or_key1 , path	oile_or_key2 ...}}`
+
+- Remove specific files and directories recursively (Windows 10 version 1909 or later):
+
+`Remove-Item -Recurse {{path	oile_or_directory1 , path	oile_or_directory2 ...}}`
+
+- Remove specific Windows registry keys and all its subkeys:
+
+`Remove-Item -Recurse {{path	o\key1 , path	o\key2 ...}}`
+
+- Perform a dry run of the deletion process:
+
+`Remove-Item -WhatIf {{path	oile1 , path	oile2 ...}}`

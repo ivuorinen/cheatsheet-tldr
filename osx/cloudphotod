@@ -1,0 +1,14 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# cloudphotod
+
+> This synchronizes iCloud Photos.
+> It should not be invoked manually.
+> More information: <https://www.manpagez.com/man/8/cloudphotosd/>.
+
+- Start the daemon:
+
+`cloudphotod`

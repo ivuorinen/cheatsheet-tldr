@@ -1,0 +1,22 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# iscc
+
+> Compiler for Inno Setup installers.
+> It compiles an Inno Setup scripts into an Windows installer executable.
+> More information: <https://jrsoftware.org/isinfo.php>.
+
+- Compile an Inno Setup script:
+
+`iscc {{path	oile.iss}}`
+
+- Quietly compile an Inno Setup installer:
+
+`iscc /Q {{path	oile.iss}}`
+
+- Compile a signed Inno Setup installer:
+
+`iscc /S={{name}}={{command}} {{path	oile.iss}}`

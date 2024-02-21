@@ -1,0 +1,14 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# irb
+
+> Interactive Ruby shell.
+> Evaluate Ruby code read from `stdin`.
+> More information: <https://docs.ruby-lang.org/en/master/IRB.html>.
+
+- Start the interactive shell:
+
+`irb`

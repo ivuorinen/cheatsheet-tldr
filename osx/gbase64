@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gbase64
+
+> This command is an alias of GNU `base64`.
+
+- View documentation for the original command:
+
+`tldr -p linux base64`

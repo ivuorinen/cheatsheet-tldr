@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# mkdir
+
+> Creates a directory.
+> More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/mkdir>.
+
+- Create a directory:
+
+`mkdir {{path	o\directory}}`
+
+- Create a nested directory tree recursively:
+
+`mkdir {{path	o\sub_directory}}`

@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gls
+
+> This command is an alias of GNU `ls`.
+
+- View documentation for the original command:
+
+`tldr -p linux ls`

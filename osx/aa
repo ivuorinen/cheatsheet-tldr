@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# aa
+
+> This command is an alias of `yaa`.
+
+- View documentation for the original command:
+
+`tldr yaa`

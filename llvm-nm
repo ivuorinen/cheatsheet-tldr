@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# llvm-nm
+
+> This command is an alias of `nm`.
+
+- View documentation for the original command:
+
+`tldr nm`

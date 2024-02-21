@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# cc
+
+> This command is an alias of `gcc`.
+> More information: <https://gcc.gnu.org>.
+
+- View documentation for the original command:
+
+`tldr gcc`

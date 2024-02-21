@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# rustup check
+
+> Check for updates to Rust toolchains and `rustup`.
+> More information: <https://rust-lang.github.io/rustup>.
+
+- Check for all updates:
+
+`rustup check`

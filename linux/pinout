@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pinout
+
+> View the current Raspberry Pi's GPIO pin-out information on the terminal with an ASCII diagram.
+> More information: <https://www.raspberrypi.org/documentation/computers/os.html#gpio-pinout>.
+
+- View the pinout information and GPIO header diagram for the current Raspberry Pi:
+
+`pinout`
+
+- Open <https://pinout.xyz/> in the default browser:
+
+`pinout -x`

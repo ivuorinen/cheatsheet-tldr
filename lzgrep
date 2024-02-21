@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# lzgrep
+
+> This command is an alias of `xzgrep`.
+
+- View documentation for the original command:
+
+`tldr xzgrep`

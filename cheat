@@ -1,0 +1,29 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# cheat
+
+> Create and view interactive cheat sheets.
+> More information: <https://github.com/cheat/cheat>.
+
+- Show example usage of a command:
+
+`cheat {{command}}`
+
+- Edit the cheat sheet for a command:
+
+`cheat -e {{command}}`
+
+- List the available cheat sheets:
+
+`cheat -l`
+
+- Search available the cheat sheets for a specified command name:
+
+`cheat -s {{command}}`
+
+- Display version:
+
+`cheat -v`

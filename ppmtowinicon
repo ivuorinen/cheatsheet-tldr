@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ppmtowinicon
+
+> This command is superseded by `pamtowinicon`.
+> More information: <https://netpbm.sourceforge.net/doc/ppmtowinicon.html>.
+
+- View documentation for the current command:
+
+`tldr pamtowinicon`

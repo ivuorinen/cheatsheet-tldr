@@ -1,0 +1,43 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# Move-Item
+
+> Move or rename files, directories, registry keys, and other PowerShell data items.
+> This command can only be run through PowerShell.
+> More information: <https://learn.microsoft.com/powershell/module/microsoft.powershell.management/move-item>.
+
+- Rename a file or directory when the target is not an existing directory:
+
+`Move-Item {{path	o\source}} {{path	o	arget}}`
+
+- Move a file or directory into an existing directory:
+
+`Move-Item {{path	o\source}} {{path	oxisting_directory}}`
+
+- Rename or move file(s) with specific name (do not treat special characters inside strings):
+
+`Move-Item -LiteralPath "{{path	o\source}}" {{path	oile_or_directory}}`
+
+- Move multiple files into an existing directory, keeping the filenames unchanged:
+
+`Move-Item {{path	o\source1 , path	o\source2 ...}} {{path	oxisting_directory}}`
+
+- Move or rename registry key(s):
+
+`Move-Item {{path	o\source_key1 , path	o\source_key2 ...}} {{path	o
+ew_or_existing_key}}`
+
+- Do not prompt for confirmation before overwriting existing files or registry keys:
+
+`mv -Force {{path	o\source}} {{path	o	arget}}`
+
+- Prompt for confirmation before overwriting existing files, regardless of file permissions:
+
+`mv -Confirm {{path	o\source}} {{path	o	arget}}`
+
+- Move files in dry-run mode, showing files and directories which could be moved without executing them:
+
+`mv -WhatIf {{path	o\source}} {{path	o	arget}}`

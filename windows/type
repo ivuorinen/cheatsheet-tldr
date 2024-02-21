@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# type
+
+> Display the contents of a file.
+> More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/type>.
+
+- Display the contents of a specific file:
+
+`type {{path	oile}}`

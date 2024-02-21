@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# caffeine-indicator
+
+> Manually inhibit desktop idleness with a toggle.
+> More information: <https://manned.org/caffeine-indicator>.
+
+- Manually inhibit desktop idleness with a toggle:
+
+`caffeine-indicator`

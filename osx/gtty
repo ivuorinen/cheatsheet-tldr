@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gtty
+
+> This command is an alias of GNU `tty`.
+
+- View documentation for the original command:
+
+`tldr -p linux tty`

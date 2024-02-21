@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# caffeinate
+
+> Prevent desktop from sleeping.
+> More information: <https://manned.org/caffeinate>.
+
+- Prevent desktop from sleeping (use `Ctrl + C` to exit):
+
+`caffeinate`

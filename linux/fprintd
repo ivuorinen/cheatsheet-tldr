@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# fprintd
+
+> Fingerprint management daemon.
+> More information: <https://fprint.freedesktop.org/>.
+
+- Display the man page for `fprintd`:
+
+`man fprintd`

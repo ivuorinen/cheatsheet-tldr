@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ip route list
+
+> This command is an alias of `ip route show`.
+
+- View documentation for the original command:
+
+`tldr ip-route-show`

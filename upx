@@ -1,0 +1,21 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# upx
+
+> Compress or decompress executables.
+> More information: <https://upx.github.io>.
+
+- Compress executable:
+
+`upx {{path/to/file}}`
+
+- Decompress executable:
+
+`upx -d {{path/to/file}}`
+
+- Detailed help:
+
+`upx --help`

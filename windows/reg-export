@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# reg export
+
+> Export the specified sub keys and values into a file.
+> More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/reg-export>.
+
+- Export all sub keys and values of a specific key:
+
+`reg export {{key_name}} {{path	oile.reg}}`
+
+- Force overwriting of an existing file without prompt:
+
+`reg export {{key_name}} {{path	oile.reg}} /y`

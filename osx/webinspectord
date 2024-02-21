@@ -1,0 +1,14 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# webinspectord
+
+> Relays commands between Web Inspector and remote targets like WKWebView.
+> It should not be invoked manually.
+> More information: <https://keith.github.io/xcode-man-pages/webinspectord.8.html>.
+
+- Start the daemon:
+
+`webinspectord`

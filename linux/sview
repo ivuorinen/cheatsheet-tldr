@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# sview
+
+> Start a GUI to view and modify the state of Slurm.
+> More information: <https://slurm.schedmd.com/sview.html>.
+
+- Start a GUI to view and modify the state of Slurm:
+
+`sview`

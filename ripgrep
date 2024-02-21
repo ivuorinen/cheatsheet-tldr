@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ripgrep
+
+> `ripgrep` is the common name for the command `rg`.
+
+- View documentation for the original command:
+
+`tldr rg`

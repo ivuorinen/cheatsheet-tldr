@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# machine
+
+> Print machine type.
+> More information: <https://keith.github.io/xcode-man-pages/machine.1.html>.
+
+- Print CPU architecture:
+
+`machine`

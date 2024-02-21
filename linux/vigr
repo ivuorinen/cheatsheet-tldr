@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# vigr
+
+> Edit the group file.
+> More information: <https://manned.org/vigr>.
+
+- Edit the group file:
+
+`vigr`
+
+- Display version:
+
+`vigr --version`

@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# cola
+
+> This command is an alias of `git-cola`.
+
+- View documentation for the original command:
+
+`tldr git-cola`

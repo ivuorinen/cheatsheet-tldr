@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# lzcmp
+
+> This command is an alias of `xzcmp`.
+
+- View documentation for the original command:
+
+`tldr xzcmp`

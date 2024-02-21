@@ -1,0 +1,14 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# groupdel
+
+> Delete existing user groups from the system.
+> See also: `groups`, `groupadd`, `groupmod`.
+> More information: <https://manned.org/groupdel>.
+
+- Delete an existing group:
+
+`sudo groupdel {{group_name}}`

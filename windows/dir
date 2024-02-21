@@ -1,0 +1,29 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# dir
+
+> List directory contents.
+> More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/dir>.
+
+- Show the contents of the current directory:
+
+`dir`
+
+- Show the contents of a given directory:
+
+`dir {{path	o\directory}}`
+
+- Show the contents of the current directory, including hidden ones:
+
+`dir /a`
+
+- Show the contents of a given directory, including hidden ones:
+
+`dir {{path	o\directory}} /a`
+
+- Show a bare list of directories and files, with no additional information:
+
+`dir /b`

@@ -1,0 +1,29 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pabcnetcclear
+
+> Preprocess and compile PascalABC.NET source files.
+> More information: <http://pascalabc.net>.
+
+- Compile the specified source file into an executable with the same name:
+
+`pabcnetcclear {{path	o\source_file.pas}}`
+
+- Compile the specified source file into an executable with the specified name:
+
+`pabcnetcclear /Output:{{path	o\_file.exe}} {{path	o\source_file.pas}}`
+
+- Compile the specified source file into an executable with the same name along with/without debug information:
+
+`pabcnetcclear /Debug:{{0|1}} {{path	o\source_file.pas}}`
+
+- Allow units to be searched in the specified path while compiling the source file into an executable with the same name:
+
+`pabcnetcclear /SearchDir:{{path	o\directory}} {{path	o\source_file.pas}}`
+
+- Compile the specified source file into an executable, defining a symbol:
+
+`pabcnetcclear /Define:{{symbol}} {{path	o\source_file.pas}}`

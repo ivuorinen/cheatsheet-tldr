@@ -1,0 +1,25 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# Add-AppxPackage
+
+> A PowerShell utility to add a signed app package (`.appx`, `.msix`, `.appxbundle` and `.msixbundle`) to a user account.
+> More information: <https://learn.microsoft.com/powershell/module/appx/Add-AppxPackage>.
+
+- Add an app package:
+
+`Add-AppxPackage -Path {{path	o\package.msix}}`
+
+- Add an app package with dependencies:
+
+`Add-AppxPackage -Path {{path	o\package.msix}} -DependencyPath {{path	o\dependencies.msix}}`
+
+- Install an app using the app installer file:
+
+`Add-AppxPackage -AppInstallerFile {{path	opp.appinstaller}}`
+
+- Add an unsigned package:
+
+`Add-AppxPackage -Path {{path	o\package.msix}} -DependencyPath {{path	o\dependencies.msix}} -AllowUnsigned`

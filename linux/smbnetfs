@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# smbnetfs
+
+> Mount SMB shares interactively.
+> More information: <https://sourceforge.net/projects/smbnetfs/>.
+
+- Make shares available at `mountpoint`:
+
+`smbnetfs {{mountpoint}}`

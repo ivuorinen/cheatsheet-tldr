@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# line
+
+> Read a single line of input.
+> More information: <https://manned.org/line.1>.
+
+- Read input:
+
+`line`

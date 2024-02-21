@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# winicontoppm
+
+> This command is superseded by `winicontopam`.
+> More information: <https://netpbm.sourceforge.net/doc/winicontoppm.html>.
+
+- View documentation for the current command:
+
+`tldr winicontopam`

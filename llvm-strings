@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# llvm-strings
+
+> This command is an alias of `strings`.
+
+- View documentation for the original command:
+
+`tldr strings`

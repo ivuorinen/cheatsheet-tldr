@@ -1,0 +1,25 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# mklink
+
+> Create symbolic links.
+> More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/mklink>.
+
+- Create a symbolic link to a file:
+
+`mklink {{path	o\link_file}} {{path	o\source_file}}`
+
+- Create a symbolic link to a directory:
+
+`mklink /d {{path	o\link_file}} {{path	o\source_directory}}`
+
+- Create a hard link to a file:
+
+`mklink /h {{path	o\link_file}} {{path	o\source_file}}`
+
+- Create a directory junction:
+
+`mklink /j {{path	o\link_file}} {{path	o\source_file}}`

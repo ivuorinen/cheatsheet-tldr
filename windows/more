@@ -1,0 +1,37 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# more
+
+> Display paginated output from `stdin` or a file.
+> More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/more>.
+
+- Display paginated output from `stdin`:
+
+`{{echo test}} | more`
+
+- Display paginated output from one or more files:
+
+`more {{path	oile}}`
+
+- Convert tabs to the specified number of spaces:
+
+`more {{path	oile}} /t{{spaces}}`
+
+- Clear the screen before displaying the page:
+
+`more {{path	oile}} /c`
+
+- Display the output starting at line 5:
+
+`more {{path	oile}} +{{5}}`
+
+- Enable extended interactive mode (see help for usage):
+
+`more {{path	oile}} /e`
+
+- Display help:
+
+`more /?`

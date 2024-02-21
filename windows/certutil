@@ -1,0 +1,29 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# certutil
+
+> A tool to manage and configure certificate information.
+> More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/certutil>.
+
+- Dump the configuration information or files:
+
+`certutil {{filename}}`
+
+- Encode a file in hexadecimal:
+
+`certutil -encodehex {{path	o\input_file}} {{path	o\output_file}}`
+
+- Encode a file to Base64:
+
+`certutil -encode {{path	o\input_file}} {{path	o\output_file}}`
+
+- Decode a Base64-encoded file:
+
+`certutil -decode {{path	o\input_file}} {{path	o\output_file}}`
+
+- Generate and display a cryptographic hash over a file:
+
+`certutil -hashfile {{path	o\input_file}} {{md2|md4|md5|sha1|sha256|sha384|sha512}}`

@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ip6tables-save
+
+> This command is an alias of `iptables-save` for the IPv6 firewall.
+
+- View documentation for the original command:
+
+`tldr iptables-save`

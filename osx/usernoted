@@ -1,0 +1,14 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# usernoted
+
+> Provides notification services.
+> It should not be invoked manually.
+> More information: <https://keith.github.io/xcode-man-pages/usernoted.8.html>.
+
+- Start the daemon:
+
+`usernoted`

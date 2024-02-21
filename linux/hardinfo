@@ -1,0 +1,21 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# hardinfo
+
+> Show hardware information in GUI window.
+> More information: <https://github.com/lpereira/hardinfo>.
+
+- Start `hardinfo`:
+
+`hardinfo`
+
+- Print report to `stdout`:
+
+`hardinfo -r`
+
+- Save report to HTML file:
+
+`hardinfo -r -f html > hardinfo.html`
