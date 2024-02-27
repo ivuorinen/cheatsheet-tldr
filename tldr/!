@@ -27,3 +27,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Substitute with the arguments of the latest command:
 
 `{{command}} !*`
+
+- Substitute with the last argument of the latest command:
+
+`{{command}} !$`
