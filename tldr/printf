@@ -32,3 +32,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `printf -v {{myvar}} {{"This is %s = %d
 " "a year" 2016}}`
+
+- Print a hexadecimal, octal and scientific number:
+
+`printf "{{hex=%x octal=%o scientific=%e}}" 0x{{FF}} 0{{377}} {{100000}}`
