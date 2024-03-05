@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pnmfile
+
+> This command is superseded by `pamfile`.
+> More information: <https://netpbm.sourceforge.net/doc/pnmfile.html>.
+
+- View documentation for the current command:
+
+`tldr pamfile`

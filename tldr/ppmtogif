@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ppmtogif
+
+> This command is superseded by `pamtogif`.
+> More information: <https://netpbm.sourceforge.net/doc/ppmtogif.html>.
+
+- View documentation for the current command:
+
+`tldr pamtogif`

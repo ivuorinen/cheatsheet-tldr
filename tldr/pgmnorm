@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pgmnorm
+
+> This command is superseded by `pnmnorm`.
+> More information: <https://netpbm.sourceforge.net/doc/pgmnorm.html>.
+
+- View documentation for the current command:
+
+`tldr pnmnorm`
