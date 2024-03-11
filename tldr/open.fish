@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # open
 
 > Opens files, directories, and URIs with default applications.
-> This command is available through `fish` on operating systems without the built-in `open` command (e.g. Haiku and macOS).
+> This command is available through fish on operating systems without the built-in `open` command (e.g. Haiku and macOS).
 > More information: <https://fishshell.com/docs/current/cmds/open.html>.
 
 - Open a file with the associated application:

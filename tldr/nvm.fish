@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # nvm
 
-> Install, uninstall, or switch between Node.js versions under the `fish` shell.
+> Install, uninstall, or switch between Node.js versions under the fish shell.
 > Supports version numbers like "12.8" or "v16.13.1", and labels like "stable", "system", etc.
 > More information: <https://github.com/jorgebucaran/nvm.fish>.
 

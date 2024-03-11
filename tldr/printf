@@ -28,7 +28,7 @@ source: https://github.com/tldr-pages/tldr.git
 `printf "{{var1: %s	var2: %s
 }}" "{{$VAR1}}" "{{$VAR2}}"`
 
-- Store a formatted message in a variable (does not work on zsh):
+- Store a formatted message in a variable (does not work on Zsh):
 
 `printf -v {{myvar}} {{"This is %s = %d
 " "a year" 2016}}`
