@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# dhcpcd
+
+> DHCP client.
+> More information: <https://roy.marples.name/projects/dhcpcd>.
+
+- Release all address leases:
+
+`sudo dhcpcd --release`
+
+- Request the DHCP server for new leases:
+
+`sudo dhcpcd --rebind`
