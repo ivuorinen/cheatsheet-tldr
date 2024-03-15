@@ -32,7 +32,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `docker container inspect {{container_name}}`
 
-- Export a container's filesystem as a `tar` archive:
+- Export a container's filesystem as a tar archive:
 
 `docker container export {{container_name}}`
 

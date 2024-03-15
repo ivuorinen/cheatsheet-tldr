@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `docker start`
 
-- Start a docker container:
+- Start a Docker container:
 
 `docker start {{container}}`
 

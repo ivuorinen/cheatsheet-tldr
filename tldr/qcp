@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `qcp {{source_file}}`
 
-- Copy multiple JPG files:
+- Copy multiple JPEG files:
 
 `qcp {{*.jpg}}`
 
