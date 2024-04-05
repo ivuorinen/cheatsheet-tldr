@@ -6,6 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # ranger
 
 > Console file manager with VI key bindings.
+> See also: `clifm`, `vifm`, `mc`, `dolphin`.
 > More information: <https://github.com/ranger/ranger>.
 
 - Launch ranger:
