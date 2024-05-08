@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# getenforce
+
+> Get the current mode of SELinux (i.e. enforcing, permissive, or disabled).
+> More information: <https://manned.org/man/getenforce>.
+
+- Display the current mode of SELinux:
+
+`getenforce`
