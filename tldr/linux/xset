@@ -27,3 +27,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Enable DPMS (Energy Star) features:
 
 `xset +dpms`
+
+- Query information on any X server:
+
+`xset -display :{{0}} q`
