@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # slimrb
 
 > Convert Slim files to HTML.
-> More information: <https://rdoc.info/gems/slim/frames#slim-command-slimrb>.
+> More information: <https://rubydoc.info/gems/slim/frames#slim-command-slimrb>.
 
 - Convert a Slim file to HTML:
 
