@@ -1,0 +1,25 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ctop
+
+> Instantly visualize container performance and health with real-time metrics on CPU, memory, and block IO usage.
+> More information: <https://github.com/bcicen/ctop>.
+
+- Show only [a]ctive containers:
+
+`ctop -a`
+
+- [r]everse the container sort order:
+
+`ctop -r`
+
+- [i]nvert the default colors:
+
+`ctop -i`
+
+- Display [h]elp:
+
+`ctop -h`
