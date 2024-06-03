@@ -24,3 +24,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Specify the number of words on each test:
 
 `toipe {{-n|--num}} {{number_of_words}}`
+
+- Include punctuation:
+
+`toipe {{-p|--punctuation}}`
