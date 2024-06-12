@@ -27,4 +27,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Boot from physical device (e.g. from USB to test bootable medium):
 
-`qemu-system-i386 -hda /dev/{{storage_device}}`
+`qemu-system-i386 -hda {{/dev/storage_device}}`

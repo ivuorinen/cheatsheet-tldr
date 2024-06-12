@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Set a filesystem label:
 
-`mlabel -i /dev/{{sda}} ::"{{new_label}}"`
+`mlabel -i {{/dev/sda}} ::"{{new_label}}"`
