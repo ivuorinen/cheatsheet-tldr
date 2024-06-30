@@ -27,4 +27,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - List currently initialized devices:
 
-`zramctl`
+`sudo zramctl`
