@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# Accelerate
+# accelerate
 
 > A library that enables the same PyTorch code to be run across any distributed configuration.
 > More information: <https://huggingface.co/docs/accelerate/index>.
