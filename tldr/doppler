@@ -29,6 +29,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `doppler secrets`
 
-- Open doppler dashboard in browser:
+- Open Doppler dashboard in browser:
 
 `doppler open`
