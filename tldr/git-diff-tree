@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display changes in patch format:
 
-`git diff-tree -p {{tree-ish1}} {{tree-ish2}}`
+`git diff-tree {{--patch|-p}} {{tree-ish1}} {{tree-ish2}}`
 
 - Filter changes by a specific path:
 

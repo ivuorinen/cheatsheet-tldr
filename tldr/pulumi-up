@@ -19,3 +19,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Preview and deploy changes in a specific stack:
 
 `pulumi up --stack {{stack}}`
+
+- Don't display stack outputs:
+
+`pulumi up --suppress-outputs`
