@@ -27,7 +27,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Delete the tag with the given name:
 
-`git tag {{--delete|-d}} {{tag_name}}`
+`git tag {{-d|--delete}} {{tag_name}}`
 
 - Get updated tags from remote:
 
