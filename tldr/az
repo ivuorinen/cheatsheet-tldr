@@ -32,3 +32,11 @@ source: https://github.com/tldr-pages/tldr.git
 - Manage Azure Network resources:
 
 `az network`
+
+- Start in interactive mode:
+
+`az interactive`
+
+- Display help:
+
+`az --help`
