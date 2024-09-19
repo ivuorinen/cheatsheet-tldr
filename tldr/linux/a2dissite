@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # a2dissite
 
 > Disable an Apache virtual host on Debian-based OSes.
-> More information: <https://manpages.debian.org/latest/apache2/a2dissite.8.en.html>.
+> More information: <https://manned.org/a2dissite.8>.
 
 - Disable a virtual host:
 
