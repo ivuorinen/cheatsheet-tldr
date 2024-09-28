@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `exit`
 
-- Quit the current batch script:
+- Quit the current [b]atch script:
 
 `exit /b`
 
