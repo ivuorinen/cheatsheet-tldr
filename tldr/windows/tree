@@ -16,10 +16,10 @@ source: https://github.com/tldr-pages/tldr.git
 
 `tree {{path	o\directory}}`
 
-- Display the tree for a directory including files:
+- Display the tree for a directory including [f]iles:
 
 `tree {{path	o\directory}} /f`
 
-- Display the tree using ASCII characters instead of extended characters:
+- Display the tree using [a]SCII characters instead of extended characters:
 
 `tree {{path	o\directory}} /a`

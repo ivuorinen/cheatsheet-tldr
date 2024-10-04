@@ -21,22 +21,22 @@ source: https://github.com/tldr-pages/tldr.git
 
 `comp {{path	o\directory1}}\* {{path	o\directory2}}\*`
 
-- Display differences in decimal format:
+- Display differences in [d]ecimal format:
 
 `comp /d {{path	oile1}} {{path	oile2}}`
 
-- Display differences in ASCII format:
+- Display differences in [a]SCII format:
 
 `comp /a {{path	oile1}} {{path	oile2}}`
 
-- Display line numbers for differences:
+- Display [l]ine numbers for differences:
 
 `comp /l {{path	oile1}} {{path	oile2}}`
 
-- Compare files case-insensitively:
+- Compare files [c]ase-insensitively:
 
 `comp /c {{path	oile1}} {{path	oile2}}`
 
 - Compare only the first 5 lines of each file:
 
-`comp /n={{5}} {{path	oile1}} {{path	oile2}}`
+`comp /n=5 {{path	oile1}} {{path	oile2}}`
