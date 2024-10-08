@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# npm stop
+
+> This command is an alias of `npm run stop`.
+
+- View documentation for the original command:
+
+`tldr npm run`
