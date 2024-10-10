@@ -28,6 +28,10 @@ source: https://github.com/tldr-pages/tldr.git
 
 `set -o {{emacs}}`
 
+- List all modes:
+
+`set -o`
+
 - Exit the shell when (some) commands fail:
 
 `set -e`
