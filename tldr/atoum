@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # atoum
 
 > A simple, modern and intuitive unit testing framework for PHP.
-> More information: <http://atoum.org>.
+> More information: <https://atoum.org>.
 
 - Initialize a configuration file:
 

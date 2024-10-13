@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # runit
 
 > 3-stage init system.
-> More information: <http://smarden.org/runit/runit.8.html>.
+> More information: <https://smarden.org/runit/runit.8.html>.
 
 - Start runit's 3-stage init scheme:
 
