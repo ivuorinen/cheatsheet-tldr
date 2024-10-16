@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # Dollar sign
 
-> Expand a bash variable.
+> Expand a Bash variable.
 > More information: <https://gnu.org/software/bash/manual/bash.html#Shell-Variables>.
 
 - Print a variable:
