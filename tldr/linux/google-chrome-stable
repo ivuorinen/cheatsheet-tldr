@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# google-chrome-stable
+
+> This command is an alias of `chromium`.
+> More information: <https://chrome.google.com>.
+
+- View documentation for the original command:
+
+`tldr chromium`
