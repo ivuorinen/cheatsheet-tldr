@@ -12,10 +12,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `fastfetch`
 
-- Display system information without a logo and escape sequences:
-
-`fastfetch --pipe`
-
 - Fetch a specific structure:
 
 `fastfetch --structure {{structure}}`
@@ -27,6 +23,10 @@ source: https://github.com/tldr-pages/tldr.git
 - Use a specific logo:
 
 `fastfetch --logo {{logo}}`
+
+- Display system information without a logo:
+
+`fastfetch --logo none`
 
 - Use a specific color for the keys and title:
 
