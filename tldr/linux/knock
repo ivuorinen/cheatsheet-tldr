@@ -1,0 +1,25 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# knock
+
+> Port knocking client to open specific ports on firewall.
+> More information: <https://manned.org/knock>.
+
+- Knock on ports using different protocols:
+
+`knock {{hostname}} {{portnumber}}:{{protocol}}`
+
+- Knock on port using UDP:
+
+`knock -u {{hostname}} {{portnumber}}`
+
+- Force usage of IPv4/IPv6:
+
+`knock {{-4|-6}} {{hostname}} {{portnumber}}`
+
+- Display errors and details of connection:
+
+`knock -v {{hostname}} {{portnumber}}`
