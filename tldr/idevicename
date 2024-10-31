@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# idevicename
+
+> Display the device name or set it to a new name.
+> More information: <https://manned.org/idevicename>.
+
+- Display the current device name:
+
+`idevicename`
+
+- Set a new device name:
+
+`idevicename {{new_name}}`
