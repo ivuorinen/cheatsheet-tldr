@@ -27,4 +27,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display version:
 
-`wirepumbler --version`
+`wireplumber --version`
