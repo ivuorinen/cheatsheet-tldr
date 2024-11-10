@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - View error rate:
 
-`ifstat {-e|--errors}}`
+`ifstat {{-e|--errors}}`
