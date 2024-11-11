@@ -6,7 +6,6 @@ source: https://github.com/tldr-pages/tldr.git
 # slmgr
 
 > This command is an alias of `slmgr.vbs`.
-> More information: <https://learn.microsoft.com/windows-server/get-started/activation-slmgr-vbs-options>.
 
 - View documentation for the original command:
 

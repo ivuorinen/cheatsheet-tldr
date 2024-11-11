@@ -6,7 +6,6 @@ source: https://github.com/tldr-pages/tldr.git
 # mscore
 
 > This command is an alias of `musescore`.
-> More information: <https://musescore.org/handbook/command-line-options>.
 
 - View documentation for the original command:
 
