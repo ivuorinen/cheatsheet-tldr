@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# npm-name
+# npm name
 
 > Check whether a package or organization name is available on npm.
 > More information: <https://github.com/sindresorhus/npm-name-cli>.

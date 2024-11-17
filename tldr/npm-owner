@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# npm-owner
+# npm owner
 
 > Manage ownership of published packages.
 > More information: <https://docs.npmjs.com/cli/commands/npm-owner>.

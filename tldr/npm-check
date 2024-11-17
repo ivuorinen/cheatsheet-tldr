@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# npm-check
+# npm check
 
 > Check for outdated, incorrect, and unused npm package dependencies.
 > More information: <https://github.com/dylang/npm-check>.

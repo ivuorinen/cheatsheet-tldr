@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# npm-org
+# npm org
 
 > Manage organizations.
 > More information: <https://docs.npmjs.com/cli/commands/npm-org>.
