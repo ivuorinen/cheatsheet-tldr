@@ -27,3 +27,7 @@ source: https://github.com/tldr-pages/tldr.git
 - List only casks:
 
 `brew list --cask`
+
+- List only pinned formulae:
+
+`brew list --pinned`
