@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pg
+
+> View files one page at a time.
+> More information: <https://manned.org/pg>.
+
+- View a file:
+
+`pg {{path/to/file}}`

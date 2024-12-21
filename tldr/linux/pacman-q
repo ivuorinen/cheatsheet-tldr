@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pacman -Q
+
+> This command is an alias of `pacman --query`.
+
+- View documentation for the original command:
+
+`tldr pacman query`
