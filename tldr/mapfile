@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# mapfile
+
+> This command is an alias of `readarray`.
+
+- View documentation for the original command:
+
+`tldr readarray`
