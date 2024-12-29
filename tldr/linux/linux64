@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# linux64
+
+> This command is an alias of `setarch linux64`.
+
+- View documentation for the original command:
+
+`tldr setarch`
