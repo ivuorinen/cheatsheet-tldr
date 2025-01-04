@@ -30,6 +30,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `pacman -Dkq`
 
-- Display help:
+- Display [h]elp:
 
-`pacman -D --help`
+`pacman -Dh`
