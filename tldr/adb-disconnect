@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# adb disconnect
+
+> This command has been moved to `adb connect`.
+
+- View documentation for `adb disconnect`:
+
+`tldr adb connect`
