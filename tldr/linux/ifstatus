@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ifstatus
+
+> Display OpenWRT interface status in JSON format.
+> More information: <https://openwrt.org/docs/techref/netifd>.
+
+- Display interface status:
+
+`ifstatus {{interface_name}}`
