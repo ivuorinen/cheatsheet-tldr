@@ -31,4 +31,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Uninstall a specific plugin:
 
-`vagrant uninstall {{vagrant_vbguest}}`
+`vagrant plugin uninstall {{vagrant_vbguest}}`
