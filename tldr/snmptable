@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Fetch data:
 
-`snmpget -v {{version}} -c {{community}} {{ip}} {{oid}}`
+`snmptable -v {{version}} -c {{community}} {{ip}} {{oid}}`

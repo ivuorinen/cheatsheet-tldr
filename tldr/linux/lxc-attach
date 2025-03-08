@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# lxc-attach
+
+> Attach to a container.
+> More information: <https://linuxcontainers.org/lxc/getting-started/>.
+
+- Attach to a container:
+
+`sudo lxc-attach {{container_name}}`

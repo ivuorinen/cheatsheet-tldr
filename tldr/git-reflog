@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show only the 5 latest entries in the reflog:
 
-`git reflog {{-n|--max-count}} 5`
+`git reflog {{[-n|--max-count]}} 5`

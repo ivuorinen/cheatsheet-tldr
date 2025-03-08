@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Turn on verbose output:
 
-`wol --verbose {{mac_address}}`
+`wol {{[-v|--verbose]}} {{mac_address}}`

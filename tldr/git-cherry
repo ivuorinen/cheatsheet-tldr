@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show commits (and their messages) with equivalent commits upstream:
 
-`git cherry {{-v|--verbose}}`
+`git cherry {{[-v|--verbose]}}`
 
 - Specify a different upstream and topic branch:
 

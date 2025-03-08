@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# lxc-start
+
+> Start a container.
+> More information: <https://linuxcontainers.org/lxc/getting-started/>.
+
+- Start a container:
+
+`sudo lxc-start {{container_name}}`

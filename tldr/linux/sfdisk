@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Back up the partition layout to a file:
 
-`sudo sfdisk {{-d|--dump}} {{path/to/device}} > {{path/to/file.dump}}`
+`sudo sfdisk {{[-d|--dump]}} {{path/to/device}} > {{path/to/file.dump}}`
 
 - Restore a partition layout:
 
@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`sfdisk {{-h|--help}}`
+`sfdisk {{[-h|--help]}}`

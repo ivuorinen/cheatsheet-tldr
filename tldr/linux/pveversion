@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Print Proxmox subpackage versions:
 
-`pveversion {{-v|--verbose}}`
+`pveversion {{[-v|--verbose]}}`
