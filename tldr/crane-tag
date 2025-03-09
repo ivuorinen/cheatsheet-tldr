@@ -15,4 +15,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`crane tag {{-h|--help}}`
+`crane tag {{[-h|--help]}}`

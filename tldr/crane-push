@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`crane push {{-h|--help}}`
+`crane push {{[-h|--help]}}`

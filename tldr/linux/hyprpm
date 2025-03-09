@@ -30,7 +30,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Force an operation:
 
-`hyprpm {{-f|--force}} {{operation}}`
+`hyprpm {{[-f|--force]}} {{operation}}`
 
 - List all installed plugins:
 

@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`crane blob {{-h|--help}}`
+`crane blob {{[-h|--help]}}`

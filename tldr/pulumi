@@ -35,4 +35,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Use Pulumi locally, independent of a Pulumi Cloud:
 
-`pulumi login {{-l|--local}}`
+`pulumi login {{[-l|--local]}}`

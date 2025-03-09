@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Dump all databases using a specific username:
 
-`pg_dumpall {{-U|--username}} {{username}} > {{path/to/file.sql}}`
+`pg_dumpall {{[-U|--username]}} {{username}} > {{path/to/file.sql}}`
 
 - Same as above, customize host and port:
 
@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Dump only database data into an SQL-script file:
 
-`pg_dumpall {{-a|--data-only}} > {{path/to/file.sql}}`
+`pg_dumpall {{[-a|--data-only]}} > {{path/to/file.sql}}`
 
 - Dump only schema (data definitions) into an SQL-script file:
 

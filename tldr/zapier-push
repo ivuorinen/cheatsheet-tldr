@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show extra debugging output:
 
-`zapier push {{-d|--debug}}`
+`zapier push {{[-d|--debug]}}`

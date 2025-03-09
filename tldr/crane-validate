@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`crane validate {{-h|--help}}`
+`crane validate {{[-h|--help]}}`
