@@ -39,4 +39,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Close a hanged session:
 
-`<Enter> ~ .`
+`<Enter><~><.>`

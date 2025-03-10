@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `xdotool search --onlyvisible --name {{firefox}}`
 
-- Click the right mouse button:
+- Perform a mouse `<RightClick>`:
 
 `xdotool click {{3}}`
 
@@ -28,6 +28,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `xdotool type --delay {{500}} "Hello world"`
 
-- Press the enter key:
+- Press the `<Enter>` key:
 
 `xdotool key {{KP_Enter}}`

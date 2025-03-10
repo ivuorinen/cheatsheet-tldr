@@ -19,15 +19,15 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Toggle minimal mode:
 
-`m`
+`<m>`
 
 - Search for running programs or processes:
 
-`f`
+`<f>`
 
 - Change settings:
 
-`M`
+`<M>`
 
 - Display version:
 

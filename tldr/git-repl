@@ -21,6 +21,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `!{{command}} {{command_arguments}}`
 
-- Exit the interactive Git shell (or press Ctrl + D):
+- Exit the interactive Git shell (or press `<Ctrl d>`):
 
 `exit`

@@ -17,6 +17,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `Get-Content -Path {{path	oile}} -TotalCount {{10}}`
 
-- Display the content of the file and keep reading from it until `Ctrl + C` is pressed:
+- Display the content of the file and keep reading from it until `<Ctrl c>` is pressed:
 
 `Get-Content -Path {{path	oile}} -Wait`

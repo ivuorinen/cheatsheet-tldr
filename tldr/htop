@@ -30,11 +30,11 @@ source: https://github.com/tldr-pages/tldr.git
 
 - See interactive commands while running htop:
 
-`?`
+`<?>`
 
 - Switch to a different tab:
 
-`tab`
+`<Tab>`
 
 - Display help:
 

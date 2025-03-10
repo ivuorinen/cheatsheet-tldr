@@ -14,12 +14,12 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Start the download:
 
-`<Ctrl>S`
+`<Ctrl s>`
 
 - View details about downloading torrent:
 
-`->`
+`<ArrowRight>`
 
 - Close rtorrent safely:
 
-`<Ctrl>Q`
+`<Ctrl q>`

@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Detach from a session:
 
-`<Ctrl> + \`
+`<Ctrl \>`
 
 - [A]ttach to a session in [r]ead-only mode:
 

@@ -14,8 +14,8 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Sort by CPU usage:
 
-`c`
+`<c>`
 
 - Sort by memory usage:
 
-`m`
+`<m>`

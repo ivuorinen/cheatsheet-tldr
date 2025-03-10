@@ -35,4 +35,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help in TUI:
 
-`h`
+`<h>`

@@ -18,20 +18,20 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Move cursor left:
 
-`h`
+`<h>`
 
 - Move cursor down:
 
-`j`
+`<j>`
 
 - Move cursor up:
 
-`k`
+`<k>`
 
 - Move cursor right:
 
-`l`
+`<l>`
 
 - Emulate left click:
 
-`m`
+`<m>`

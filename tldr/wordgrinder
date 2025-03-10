@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show the menu:
 
-`<Alt> + M`
+`<Alt m>`

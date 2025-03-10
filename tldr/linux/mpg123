@@ -18,20 +18,20 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Jump forward to the next song:
 
-`f`
+`<f>`
 
 - Jump back to the beginning for the song:
 
-`b`
+`<b>`
 
 - Stop or replay the current file:
 
-`s`
+`<s>`
 
 - Fast forward:
 
-`.`
+`<.>`
 
 - Quit:
 
-`q`
+`<q>`
