@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# trash-put
+
+> This command is an alias of `trash`.
+
+- View documentation for the original command:
+
+`tldr trash`

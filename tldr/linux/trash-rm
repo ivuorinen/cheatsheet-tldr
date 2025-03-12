@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# trash-rm
+
+> This command has been moved to `trash`.
+
+- View documentation for `trash-rm`:
+
+`tldr trash`

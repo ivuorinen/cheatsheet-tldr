@@ -10,15 +10,15 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display power and battery information:
 
-`upower --dump`
+`upower {{[-d|--dump]}}`
 
 - List all power devices:
 
-`upower --enumerate`
+`upower {{[-e|--enumerate]}}`
 
 - Watch for and print power status changes:
 
-`upower --monitor`
+`upower {{[-m|--monitor]}}`
 
 - Watch for and print detailed power status changes:
 
@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display version:
 
-`upower --version`
+`upower {{[-v|--version]}}`
