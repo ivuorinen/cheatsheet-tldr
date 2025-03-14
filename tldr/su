@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Execute a command as another user:
 
-`su - {{username}} -c "{{command}}"`
+`su - {{username}} {{[-c|--command]}} "{{command}}"`
