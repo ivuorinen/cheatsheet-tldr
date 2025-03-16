@@ -14,11 +14,11 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Add UEFI Shell v2 as a boot option:
 
-`sudo efibootmgr -c -d {{/dev/sda}} -p {{1}} -l "{{\path	o\shell.efi}}" -L "{{UEFI Shell}}"`
+`sudo efibootmgr {{[-c|--create]}} {{[-d|--disk]}} {{/dev/sda}} {{[-p|--part]}} {{1}} {{[-l|--loader]}} "{{\path	o\shell.efi}}" {{[-L|--label]}} "{{UEFI Shell}}"`
 
 - Add Linux as a boot option:
 
-`sudo efibootmgr --create --disk {{/dev/sda}} --part {{1}} --loader "{{mlinuz}}" --unicode "{{kernel_cmdline}}" --label "{{Linux}}"`
+`sudo efibootmgr {{[-c|--create]}} {{[-d|--disk]}} {{/dev/sda}} {{[-p|--part]}} {{1}} {{[-l|--loader]}} "{{mlinuz}}" {{[-u|--unicode]}} "{{kernel_cmdline}}" {{[-L|--label]}} "{{Linux}}"`
 
 - Change the current boot order:
 
