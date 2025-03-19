@@ -32,4 +32,4 @@ bar,foo
 `printf "header1
 bar
 foobar
-" | column {{[-c|{{[-c|--output-width]}}]}} {{30}} {{[-x|--fillrows]}}`
+" | column {{[-c|--output-width]}} {{30}} {{[-x|--fillrows]}}`
