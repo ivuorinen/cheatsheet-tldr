@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `yakuake`
 
-- Toggle Yakuale visibility:
+- Toggle Yakuake visibility:
 
 `<F12>`
 
@@ -32,6 +32,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `<Ctrl {{)|(}}>`
 
-- Switch between splist:
+- Switch between splits:
 
 `{{<Ctrl Tab>|<Ctrl Shift Tab>}}`
