@@ -3,10 +3,10 @@ syntax: markdown
 tags: [tldr, linux]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# ip route show
+# avahi-resolve-host-name
 
-> This command is an alias of `ip route list`.
+> This command is an alias of `avahi-resolve --name`.
 
 - View documentation for the original command:
 
-`tldr ip route list`
+`tldr avahi-resolve`

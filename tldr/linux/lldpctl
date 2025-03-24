@@ -1,0 +1,21 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# lldpctl
+
+> Print link layer discovery protocol information.
+> More information: <https://manned.org/man/lldpctl>.
+
+- Start the lldp daemon:
+
+`systemctl start lldpd`
+
+- Display collected neighbor data:
+
+`sudo lldpctl`
+
+- Display help:
+
+`lldpctl {{[-h|--help]}}`
