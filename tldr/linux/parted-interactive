@@ -32,3 +32,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Remove a partition in interactive mode:
 
 `rm {{/dev/sdXN}}`
+
+- Display help:
+
+`?`

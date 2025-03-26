@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# Exclamation mark
+# msgmerge
 
 > Update an existing translation file from a new template.
 > More information: <https://www.gnu.org/software/gettext/manual/html_node/msgmerge-Invocation.html>.
@@ -11,3 +11,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Update a translation file:
 
 `msgmerge {{[-U|--update]}} {{path/to/file.po}} {{path/to/messages.pot}}`
+
+- Display help:
+
+`msgmerge {{[-h|--help]}}`

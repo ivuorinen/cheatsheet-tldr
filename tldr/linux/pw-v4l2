@@ -11,3 +11,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Run a program:
 
 `pw-v4l2 {{program}}`
+
+- Display help:
+
+`pw-v4l2 -h`

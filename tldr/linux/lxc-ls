@@ -27,3 +27,7 @@ source: https://github.com/tldr-pages/tldr.git
 - List containers in a fancy, column-based output:
 
 `sudo lxc-ls {{[-f|--fancy]}}`
+
+- Display help:
+
+`lxc-ls {{[-?|--help]}}`

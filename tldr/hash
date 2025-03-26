@@ -23,3 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Print the full path of `command`:
 
 `hash -t {{command}}`
+
+- Display help:
+
+`hash --help`

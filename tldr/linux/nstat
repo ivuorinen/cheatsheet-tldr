@@ -15,3 +15,7 @@ source: https://github.com/tldr-pages/tldr.git
 - View all-time network statistics:
 
 `nstat {{[-a|--ignore]}}`
+
+- Display help:
+
+`nstat {{[-h|--help]}}`

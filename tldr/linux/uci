@@ -35,3 +35,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Discard uncommitted changes:
 
 `uci revert {{config}}`
+
+- Display help:
+
+`uci`

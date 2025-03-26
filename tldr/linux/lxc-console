@@ -19,3 +19,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Exit `lxc-console`:
 
 `<Ctrl a><q>`
+
+- Display help:
+
+`lxc-console {{[-?|--help]}}`

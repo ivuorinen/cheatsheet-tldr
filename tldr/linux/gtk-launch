@@ -11,3 +11,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Launch an application:
 
 `gtk-launch {{Application_name}}`
+
+- Display help:
+
+`gtk-launch {{[-h|--help]}}`

@@ -27,3 +27,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Enable debug mode:
 
 `qmake -d`
+
+- Display help:
+
+`qmake -help`

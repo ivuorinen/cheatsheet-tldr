@@ -23,3 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Print log messages as they happen:
 
 `logread -f`
+
+- Display help:
+
+`logread -h`

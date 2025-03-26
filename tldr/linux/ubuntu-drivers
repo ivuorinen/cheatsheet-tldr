@@ -15,3 +15,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Install drivers for detected hardware:
 
 `sudo ubuntu-drivers install`
+
+- Display help:
+
+`ubuntu-drivers`

@@ -23,3 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Quit Orbiton:
 
 `<Ctrl q>`
+
+- Display help:
+
+`o {{[-h|--help]}}`

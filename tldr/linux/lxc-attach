@@ -11,3 +11,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Attach to a container:
 
 `sudo lxc-attach {{container_name}}`
+
+- Display help:
+
+`lxc-attach {{[-?|--help]}}`

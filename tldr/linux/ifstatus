@@ -11,3 +11,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Display interface status:
 
 `ifstatus {{interface_name}}`
+
+- Display help:
+
+`ifstatus`

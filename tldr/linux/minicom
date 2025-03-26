@@ -23,3 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Exit minicom:
 
 `<Ctrl a><x><Enter>`
+
+- Display help:
+
+`minicom {{[-h|--help]}}`
