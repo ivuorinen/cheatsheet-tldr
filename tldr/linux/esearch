@@ -21,6 +21,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `esearch -db nuccore -query "{{insulin [PROT] AND rodents [ORGN]}}"`
 
-- Display [h]elp:
+- Display help:
 
-`esearch -h`
+`esearch {{[-h|-help]}}`

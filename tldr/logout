@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Exit a login shell and specify a return value:
 
-`logout {{N}}`
+`logout {{exit_code}}`

@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `rig -{{m|f}}`
 
-- Use data files from a specific directory (default is `/usr/share/rig`):
+- Use [d]ata files from a specific directory (default is `/usr/share/rig`):
 
 `rig -d {{path/to/directory}}`
 
@@ -24,6 +24,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `rig -c {{number}}`
 
-- Display a specific number of female identities:
+- Display a specific number of [f]emale identities:
 
 `rig -f -c {{number}}`

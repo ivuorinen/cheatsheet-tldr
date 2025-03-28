@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Specify the function's return value:
 
-`{{func_name}}() { return {{N}}; }`
+`{{func_name}}() { return {{exit_code}}; }`
