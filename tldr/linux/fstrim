@@ -11,7 +11,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Trim unused blocks on all mounted partitions that support it:
 
-`sudo fstrim --all`
+`sudo fstrim {{[-a|--all]}}`
 
 - Trim unused blocks on a specified partition:
 
@@ -19,4 +19,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display statistics after trimming:
 
-`sudo fstrim --verbose {{/}}`
+`sudo fstrim {{[-v|--verbose]}} {{/}}`

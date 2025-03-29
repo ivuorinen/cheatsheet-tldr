@@ -16,4 +16,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`switch_root -h`
+`switch_root {{[-h|--help]}}`

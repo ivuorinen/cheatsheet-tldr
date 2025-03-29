@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Filter by columns:
 
-`rfkill -o {{ID,TYPE,DEVICE}}`
+`rfkill {{[-o|--output]}} {{ID,TYPE,DEVICE}}`
 
 - Block devices by type (e.g. bluetooth, wlan):
 
@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Output in JSON format:
 
-`rfkill -J`
+`rfkill {{[-J|--json]}}`

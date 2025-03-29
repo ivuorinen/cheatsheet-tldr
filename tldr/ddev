@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # ddev
 
 > Container based local development tool for PHP environments.
-> More information: <https://ddev.readthedocs.io>.
+> More information: <https://ddev.readthedocs.io/en/stable/users/usage/cli/>.
 
 - Start up a project:
 
@@ -16,9 +16,9 @@ source: https://github.com/tldr-pages/tldr.git
 
 `ddev config`
 
-- [f]ollow the log trail:
+- Follow the log trail:
 
-`ddev logs -f`
+`ddev logs {{[-f|--follow]}}`
 
 - Run composer within the container:
 
@@ -30,7 +30,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Export a database:
 
-`ddev export-db --file={{/tmp/db.sql.gz}}`
+`ddev export-db {{[-f|--file]}} {{/tmp/db.sql.gz}}`
 
 - Run a specific command within a container:
 
