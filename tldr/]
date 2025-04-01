@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ]
+
+> This shell keyword is used to close out `[`.
+
+- View documentation for the `[` keyword:
+
+`tldr [`
