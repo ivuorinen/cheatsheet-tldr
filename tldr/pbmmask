@@ -15,4 +15,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Expand the generated mask by one pixel:
 
-`pbmmask -expand {{path/to/image.pbm}} > {{path/to/output.pbm}}`
+`pbmmask {{[-r|-expand]}} {{path/to/image.pbm}} > {{path/to/output.pbm}}`

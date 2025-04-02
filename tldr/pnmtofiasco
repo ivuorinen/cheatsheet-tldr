@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Specify the compression quality:
 
-`pnmtofiasco {{[-q|--quality]}} {{quality_level}} {{path/to/file.pnm}} > {{path/to/file.fiasco}}`
+`pnmtofiasco {{[-qua|--quality]}} {{quality_level}} {{path/to/file.pnm}} > {{path/to/file.fiasco}}`
 
 - Load the options to be used from the specified configuration file:
 

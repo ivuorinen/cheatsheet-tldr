@@ -23,4 +23,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display version:
 
-`pbmtoascii -version`
+`pbmtoascii {{[-v|-version]}}`

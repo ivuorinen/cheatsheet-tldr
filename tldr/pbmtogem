@@ -15,8 +15,8 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Suppress all informational messages:
 
-`pbmtogem -quiet`
+`pbmtogem {{[-q|-quiet]}}`
 
 - Display version:
 
-`pbmtogem -version`
+`pbmtogem {{[-v|-version]}}`

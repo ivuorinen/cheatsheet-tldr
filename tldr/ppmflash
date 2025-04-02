@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display version:
 
-`ppmflash -version`
+`ppmflash {{[-v|-version]}}`

@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display version:
 
-`imgtoppm -version`
+`imgtoppm {{[-v|-version]}}`
