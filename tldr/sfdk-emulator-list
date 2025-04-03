@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# sfdk emulator list
+
+> This command has been moved to `sfdk emulator install`.
+
+- View documentation for `sfdk emulator install`:
+
+`tldr sfdk emulator install`
