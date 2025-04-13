@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Preview deploy without applying the changes:
 
-`sfdk deploy --{{method}} --dry-run`
+`sfdk deploy --{{method}} {{[-n|--dry-run]}}`
 
 - Deploy files in glob pattern `package*`:
 

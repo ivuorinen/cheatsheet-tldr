@@ -11,7 +11,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - List partitions:
 
-`sudo fdisk -l`
+`sudo fdisk {{[-l|--list]}}`
 
 - Start the partition manipulator:
 

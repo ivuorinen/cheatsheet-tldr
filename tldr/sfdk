@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`sfdk --help`
+`sfdk {{[-h|--help]}}`
 
 - Display help for specific topic (`building`, `testing`, `maintaining`, `ide`, `all`):
 
