@@ -23,4 +23,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Save output to a file:
 
-`GetADUsers.py -all -dc-ip {{domain_controller_ip}} {{domain}}/{{username}}:{{password}} > output.txt`
+`GetADUsers.py -all -dc-ip {{domain_controller_ip}} {{domain}}/{{username}}:{{password}} > {{path/to/output.txt}}`
