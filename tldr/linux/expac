@@ -11,24 +11,24 @@ source: https://github.com/tldr-pages/tldr.git
 
 - List the dependencies of a package:
 
-`expac -S '%D' {{package}}`
+`expac {{[-S|--sync]}} '%D' {{package}}`
 
 - List the optional dependencies of a package:
 
-`expac -S "%o" {{package}}`
+`expac {{[-S|--sync]}} "%o" {{package}}`
 
 - List the download size of packages in MiB:
 
-`expac -S -H M '%k	%n' {{package1 package2 ...}}`
+`expac {{[-S|--sync]}} {{[-H|--humansize]}} M '%k	%n' {{package1 package2 ...}}`
 
 - List packages marked for upgrade with their download size:
 
-`expac -S -H M '%k	%n' $(pacman -Qqu) | sort -sh`
+`expac {{[-S|--sync]}} {{[-H|--humansize]}} M '%k	%n' $(pacman -Qqu) | sort {{[-sh|--sort --human-numeric-sort]}}`
 
 - List explicitly-installed packages with their optional dependencies:
 
-`expac -d '
+`expac {{[-d|--delim]}} '
 
-' -l '
-	' -Q '%n
+' {{[-l|listdelim]}} '
+	' {{[-Q|--query]}} '%n
 	%O' $(pacman -Qeq)`

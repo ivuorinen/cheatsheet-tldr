@@ -10,11 +10,11 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show all available variables and their values:
 
-`sysctl -a`
+`sysctl {{[-a|--all]}}`
 
 - Set a changeable kernel state variable:
 
-`sysctl -w {{section.tunable}}={{value}}`
+`sysctl {{[-w|--write]}} {{section.tunable}}={{value}}`
 
 - Get currently open file handlers:
 
@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Apply changes from `/etc/sysctl.conf`:
 
-`sysctl -p`
+`sysctl {{[-p|--load]}}`

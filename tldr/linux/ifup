@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Enable all the interfaces defined with "auto" in `/etc/network/interfaces`:
 
-`ifup -a`
+`ifup {{[-a|--all]}}`

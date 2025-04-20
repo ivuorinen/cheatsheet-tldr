@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Strip debug symbols only:
 
-`strip --strip-debug {{path/to/file.o}}`
+`strip {{[-d|--strip-debug]}} {{path/to/file.o}}`

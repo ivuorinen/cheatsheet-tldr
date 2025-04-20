@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Set display brightness to 50%:
 
-`blight set {{50}} -r`
+`blight set {{50}} {{[-r|--relative]}}`
 
 - Show current display brightness:
 
@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Increase display brightness in %:
 
-`blight inc {{number}} -r`
+`blight inc {{number}} {{[-r|--relative]}}`
 
 - Decrease display brightness with internal units:
 

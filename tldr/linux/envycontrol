@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Switch between different GPU modes:
 
-`sudo envycontrol -s {{nvidia|integrated|hybrid}}`
+`sudo envycontrol {{[-s|--switch]}} {{nvidia|integrated|hybrid}}`
 
 - Specify your display manager manually:
 
@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Check current GPU mode:
 
-`sudo envycontrol --query`
+`sudo envycontrol {{[-q|--query]}}`
 
 - Reset settings:
 
@@ -26,8 +26,8 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`envycontrol --help`
+`envycontrol {{[-h|--help]}}`
 
 - Display version:
 
-`envycontrol --version`
+`envycontrol {{[-v|--version]}}`

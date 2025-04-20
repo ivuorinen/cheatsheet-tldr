@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Clone a local repository:
 
-`git clone {{[-l|--local]]} {{path/to/local/repository}}`
+`git clone {{[-l|--local]}} {{path/to/local/repository}}`
 
 - Clone quietly:
 

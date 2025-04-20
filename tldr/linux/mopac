@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 #comment
 
 H 0.95506 0.05781 -0.03133
-F 1.89426 0.05781 -0.03133" > test.mop; mopac test.mop & tail -f test.out`
+F 1.89426 0.05781 -0.03133" > test.mop; mopac test.mop & tail {{[-f|--follow]}} test.out`

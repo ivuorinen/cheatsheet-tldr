@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display CPU statistics:
 
-`iostat {{[-c|--compact]}}`
+`iostat -c`
 
 - Display disk statistics with disk names (including LVM):
 

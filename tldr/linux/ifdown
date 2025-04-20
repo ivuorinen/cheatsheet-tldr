@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Disable all interfaces which are enabled:
 
-`ifdown -a`
+`ifdown {{[-a|--all]}}`

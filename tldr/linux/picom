@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Start `picom` as a background process:
 
-`picom -b`
+`picom {{[-b|--daemon]}}`
 
 - Use a custom configuration file:
 
