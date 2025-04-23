@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Only clean commands that finished successfully:
 
-`pueue clean --successful-only`
+`pueue clean {{[-s|--successful-only]}}`

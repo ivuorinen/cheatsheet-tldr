@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Sort images by size:
 
-`docker images --format "\{\{.ID\}\}	\{\{.Size\}\}	\{\{.Repository\}\}:\{\{.Tag\}\}" | sort -k 2 -h`
+`docker images --format "\{\{.ID\}\}	\{\{.Size\}\}	\{\{.Repository\}\}:\{\{.Tag\}\}" | sort {{[-k|--key]}} 2 {{[-h|--human-numeric-sort]}}`

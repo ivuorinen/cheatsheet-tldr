@@ -34,4 +34,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`a2ping -h`
+`a2ping {{[-h|--help]}}`

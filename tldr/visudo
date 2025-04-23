@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Check the sudoers file for errors:
 
-`sudo visudo -c`
+`sudo visudo {{[-c|--check]}}`
 
 - Edit the sudoers file using a specific editor:
 
@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display version information:
 
-`visudo --version`
+`visudo {{[-V|--version]}}`

@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Reset without asking for confirmation:
 
-`pueue reset --force`
+`pueue reset {{[-f|--force]}}`

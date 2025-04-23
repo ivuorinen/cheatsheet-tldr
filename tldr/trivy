@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Scan a Docker image filtering the output by severity:
 
-`trivy image --severity {{HIGH,CRITICAL}} {{alpine:3.15}}`
+`trivy image {{[-s|--severity]}} {{HIGH,CRITICAL}} {{alpine:3.15}}`
 
 - Scan a Docker image ignoring any unfixed/unpatched vulnerabilities:
 
@@ -38,4 +38,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Generate output with a SARIF template:
 
-`trivy image --format {{template}} --template "{{@sarif.tpl}}" -o {{path/to/report.sarif}} {{image:tag}}`
+`trivy image {{[-f|--format]}} {{template}} {{[-t|--template]}} "{{@sarif.tpl}}" {{[-o|--output]}} {{path/to/report.sarif}} {{image:tag}}`

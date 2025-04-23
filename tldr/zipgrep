@@ -14,11 +14,11 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Print file name and line number for each match:
 
-`zipgrep -H -n "{{search_pattern}}" {{path/to/file.zip}}`
+`zipgrep {{[-H|--with-filename]}} {{[-n|--line-number]}} "{{search_pattern}}" {{path/to/file.zip}}`
 
 - Search for lines that do not match a pattern:
 
-`zipgrep -v "{{search_pattern}}" {{path/to/file.zip}}`
+`zipgrep {{[-v|--invert-match]}} "{{search_pattern}}" {{path/to/file.zip}}`
 
 - Specify files inside a Zip archive from search:
 
@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Exclude files inside a Zip archive from search:
 
-`zipgrep "{{search_pattern}}" {{path/to/file.zip}} -x {{file/to/exclude1}} {{file/to/exclude2}}`
+`zipgrep "{{search_pattern}}" {{path/to/file.zip}} {{[-x|--line-regexp]}} {{file/to/exclude1}} {{file/to/exclude2}}`

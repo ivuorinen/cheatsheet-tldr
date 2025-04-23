@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Stage all tables:
 
-`dolt add --all`
+`dolt add {{[-A|--all]}}`

@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Set package status (public or private):
 
-`npm access set status={{public|private}} {{package_name}}`
+`npm access set status {{public|private}} {{package_name}}`
 
 - Grant access to a package:
 
@@ -34,4 +34,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Configure two-factor authentication requirement:
 
-`npm access set mfa={{none|publish|automation}} {{package_name}}`
+`npm access set mfa {{none|publish|automation}} {{package_name}}`

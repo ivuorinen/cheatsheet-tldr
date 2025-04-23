@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Non-interactively create a new D project:
 
-`dub init {{project_name}} -n`
+`dub init {{project_name}} {{[-n|--non-interactive]}}`
 
 - Build and run a D project:
 
@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`dub --help`
+`dub {{[-h|--help]}}`

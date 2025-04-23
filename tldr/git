@@ -23,7 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`git --help`
+`git {{[-h|--help]}}`
 
 - Display help for a specific subcommand (like `clone`, `add`, `push`, `log`, etc.):
 
@@ -31,4 +31,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display version:
 
-`git --version`
+`git {{[-v|--version]}}`

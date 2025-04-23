@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - If there are multiple executables which match, display all:
 
-`which -a {{executable}}`
+`which {{[-a|--all]}} {{executable}}`

@@ -11,7 +11,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show general help and available subcommands:
 
-`pueue --help`
+`pueue {{[-h|--help]}}`
 
 - Execute a pueue subcommand:
 
@@ -19,4 +19,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Check the version of pueue:
 
-`pueue --version`
+`pueue {{[-V|--version]}}`

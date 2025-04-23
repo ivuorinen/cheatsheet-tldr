@@ -34,4 +34,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Delete resources defined in a YAML manifest:
 
-`kubectl delete --filename {{path/to/manifest.yaml}}`
+`kubectl delete {{[-f|--filename]}} {{path/to/manifest.yaml}}`
