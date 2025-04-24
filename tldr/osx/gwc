@@ -9,4 +9,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - View documentation for the original command:
 
-`tldr -p linux wc`
+`tldr {{[-p|--platform]}} linux wc`

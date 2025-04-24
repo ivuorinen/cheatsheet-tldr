@@ -9,4 +9,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - View documentation for the original command:
 
-`tldr -p linux hostid`
+`tldr {{[-p|--platform]}} linux hostid`
