@@ -19,7 +19,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Unset the project's default remote:
 
-`dvc config --unset core.remote`
+`dvc config {{[-u|--unset]}} core.remote`
 
 - Get the configuration value for a specified key for the current project:
 
@@ -31,7 +31,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Unset a project level configuration value for a given key:
 
-`dvc config --unset {{key}}`
+`dvc config {{[-u|--unset]}} {{key}}`
 
 - Set a local, global, or system level configuration value:
 

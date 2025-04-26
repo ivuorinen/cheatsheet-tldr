@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Force creating a fresh virtual machine:
 
-`makebuildserver --clean`
+`makebuildserver {{[-c|--clean]}}`

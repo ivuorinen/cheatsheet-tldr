@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # pamixer
 
 > A simple command-line mixer for PulseAudio.
-> More information: <https://github.com/cdemoulins/pamixer>.
+> More information: <https://github.com/cdemoulins/pamixer#installation>.
 
 - List all sinks and sources with their corresponding IDs:
 
@@ -22,11 +22,11 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Increase the volume on default sink by 5%:
 
-`pamixer --increase {{5}}`
+`pamixer {{[-i|--increase]}} {{5}}`
 
 - Decrease the volume on a source by 5%:
 
-`pamixer --decrease {{5}} --source {{ID}}`
+`pamixer {{[-d|--decrease]}} {{5}} --source {{ID}}`
 
 - Use the allow boost option to increase, decrease, or set the volume above 100%:
 
@@ -34,4 +34,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Mute the default sink (use `--unmute` instead to unmute):
 
-`pamixer --mute`
+`pamixer {{[-m|--mute]}}`

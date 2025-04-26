@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show only heads references:
 
-`git show-ref --heads`
+`git show-ref --branches`
 
 - Show only tags references:
 
