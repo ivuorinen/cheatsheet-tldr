@@ -36,6 +36,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `echo ${!variable}`
 
-- Capitalize all the characters:
+- Group command output together:
 
-`echo ${variable^^}`
+`{ {{command1; command2; ...}} } | {{another_command}}`

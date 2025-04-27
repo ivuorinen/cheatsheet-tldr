@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# jco
+
+> This command is an alias of `autojump`.
+
+- View documentation for the original command:
+
+`tldr autojump`

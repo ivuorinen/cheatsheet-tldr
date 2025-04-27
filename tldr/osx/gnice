@@ -9,4 +9,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - View documentation for the original command:
 
-`tldr {{[-p|--platform]}} linux nice`
+`tldr nice`
