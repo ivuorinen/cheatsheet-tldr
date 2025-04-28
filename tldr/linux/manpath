@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show the entire global manpath:
 
-`manpath --global`
+`manpath {{[-g|--global]}}`
