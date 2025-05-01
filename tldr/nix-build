@@ -11,8 +11,8 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Build a Nix expression:
 
-`nix-build '<nixpkgs>' --attr {{firefox}}`
+`nix-build '<nixpkgs>' {{[-A|--attr]}} {{firefox}}`
 
 - Build a sandboxed Nix expression (on non-NixOS):
 
-`nix-build '<nixpkgs>' --attr {{firefox}} --option sandbox true`
+`nix-build '<nixpkgs>' {{[-A|--attr]}} {{firefox}} --option sandbox true`

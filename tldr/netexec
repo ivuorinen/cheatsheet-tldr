@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# netexec
+
+> This command is an alias of `nxc`.
+
+- View documentation for the original command:
+
+`tldr nxc`
