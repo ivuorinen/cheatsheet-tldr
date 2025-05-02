@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # iwctl
 
 > Control the `iwd` network supplicant.
-> More information: <https://archive.kernel.org/oldwiki/iwd.wiki.kernel.org/gettingstarted.html>.
+> More information: <https://manned.org/iwctl>.
 
 - Start the interactive mode, in this mode you can enter the commands directly, with autocompletion:
 
@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Call general help:
 
-`iwctl --help`
+`iwctl {{[-h|--help]}}`
 
 - Display your Wi-Fi stations:
 

@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# localedef
+
+> Manage locale definition files.
+> More information: <https://manned.org/localedef>.
+
+- List compiled locales:
+
+`localedef --list-archive`
+
+- Display help:
+
+`localedef {{[-?|--help]}}`
