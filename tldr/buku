@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # buku
 
 > Command-line browser-independent bookmark manager.
-> More information: <https://github.com/jarun/Buku?tab=readme-ov-file#usage>.
+> More information: <https://github.com/jarun/Buku#usage>.
 
 - Display all bookmarks matching "keyword" and with "privacy" tag:
 

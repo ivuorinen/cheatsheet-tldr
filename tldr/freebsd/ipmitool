@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `kldload ipmi.ko`
 
-- Open IPMI shell on the local hardware :
+- Open IPMI shell on the local hardware:
 
 `ipmitool shell`
 

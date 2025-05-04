@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# virsh-undefine
+# virsh undefine
 
 > Delete a virtual machine.
 > More information: <https://manned.org/virsh>.
