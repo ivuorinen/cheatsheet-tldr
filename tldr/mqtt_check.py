@@ -29,6 +29,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `mqtt_check.py -debug {{domain}}/{{username}}:{{password}}@{{targetName}}`
 
-- Display help message:
+- Display help:
 
 `mqtt_check.py --help`

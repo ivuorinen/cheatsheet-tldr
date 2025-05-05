@@ -6,10 +6,10 @@ source: https://github.com/tldr-pages/tldr.git
 # ospp.vbs
 
 > Install, activate, and manage volume licensed versions of Microsoft Office products.
-> Note: this command may override, deactivate, and/or remove your current volume of licensed Office product versions, so please proceed cautiously.
+> Note: This command may override, deactivate, and/or remove your current volume of licensed Office product versions, so please proceed cautiously.
 > More information: <https://learn.microsoft.com/deployoffice/vlactivation/tools-to-manage-volume-activation-of-office>.
 
-- Install a product key (Note: it replaces the existing key):
+- Install a product key (Note: It replaces the existing key):
 
 `cscript ospp.vbs /inpkey:{{product_key}}`
 
