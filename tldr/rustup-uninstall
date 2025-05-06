@@ -3,9 +3,9 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# rustup install
+# rustup uninstall
 
-> This command is an alias of `rustup toolchain install`.
+> This command is an alias of `rustup toolchain uninstall`.
 
 - View documentation for the original command:
 

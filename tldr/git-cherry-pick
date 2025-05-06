@@ -23,4 +23,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Add the changes of a commit to the working directory, without creating a commit:
 
-`git cherry-pick --no-commit {{commit}}`
+`git cherry-pick {{[-n|--no-commit]}} {{commit}}`
