@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show available commands:
 
-`doctl auth --help`
+`doctl auth {{[-h|--help]}}`
