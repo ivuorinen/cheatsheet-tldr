@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # rofi
 
 > An application launcher and window switcher.
-> More information: <https://github.com/davatorium/rofi>.
+> More information: <https://github.com/davatorium/rofi#manpage>.
 
 - Show the list of apps:
 

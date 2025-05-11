@@ -34,4 +34,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`pulumi env --help`
+`pulumi env {{[-h|--help]}}`
