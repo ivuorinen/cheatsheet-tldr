@@ -16,4 +16,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Print a file from `stdin` to `stdout`:
 
-`{{wget {{[-O|--output-document]}} - https://examplewebsite.com/file}} | ippeveps`
+`{{wget {{[-O|--output-document]}} - https://example.com/file}} | ippeveps`

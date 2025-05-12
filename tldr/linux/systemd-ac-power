@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Additionally print `yes` or `no` to `stdout`:
 
-`systemd-ac-power --verbose`
+`systemd-ac-power {{[-v|--verbose]}}`
