@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# decode-dimms
+
+> Decode RAM data.
+> More information: <https://manned.org/decode-dimms>.
+
+- Display DIMM information:
+
+`decode-dimms`
+
+- Display help:
+
+`decode-dimms {{[-h|--help]}}`
