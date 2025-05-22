@@ -15,4 +15,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Synchronize and update all packages:
 
-`xbps-install --sync --update`
+`xbps-install {{[-S|--sync]}} {{[-u|--update]}}`
