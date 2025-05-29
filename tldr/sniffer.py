@@ -15,7 +15,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Capture packets for specific protocols (e.g., ICMP, TCP):
 
-`sniffer.py {{protocol1}} {{protocol2}}`
+`sniffer.py {{protocol1 protocol2 ...}}`
 
 - Capture packets for specific protocols (e.g., TCP):
 

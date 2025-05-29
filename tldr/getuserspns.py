@@ -19,7 +19,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Save the output to a file:
 
-`GetUserSPNs.py {{domain}}/{{username}}:{{password}} -dc-ip {{domain_controller_ip}} -outputfile {{output_file}}`
+`GetUserSPNs.py {{domain}}/{{username}}:{{password}} -dc-ip {{domain_controller_ip}} -outputfile {{path/to/output_file}}`
 
 - Request only TGS tickets:
 

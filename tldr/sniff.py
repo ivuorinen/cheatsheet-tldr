@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # sniff.py
 
-> Capture and display network packets using the pcapy library.
+> Capture and display network packets using the `pcapy` library.
 > Part of the Impacket suite.
 > More information: <https://github.com/fortra/impacket>.
 
@@ -15,4 +15,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Capture packets and save output to a file while displaying it on the terminal:
 
-`sudo sniff.py | sudo tee {{output_file}}`
+`sudo sniff.py | sudo tee {{path/to/output_file}}`
