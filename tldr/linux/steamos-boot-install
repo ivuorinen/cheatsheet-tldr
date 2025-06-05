@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# steamos-boot-install
+
+> This command is an alias of `steamos-finalize-install`.
+
+- View documentation for the original command:
+
+`tldr steamos-finalize-install`

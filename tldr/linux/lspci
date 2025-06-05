@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `lspci`
 
-- Display additional info:
+- Display additional information (Note: the `-v` flag can be repeated to increase verbosity):
 
 `lspci -v`
 
