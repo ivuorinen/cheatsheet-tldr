@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# Curly brace
+# {
 
 > Multipurpose shell syntax.
 > More information: <https://www.gnu.org/software/bash/manual/bash.html>.

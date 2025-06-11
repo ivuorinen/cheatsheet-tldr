@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# Dollar sign
+# $
 
 > Expand a Bash variable.
 > More information: <https://gnu.org/software/bash/manual/bash.html#Shell-Variables>.
