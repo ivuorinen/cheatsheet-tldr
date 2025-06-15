@@ -6,6 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # unalias
 
 > Remove aliases.
+> See also: `alias`.
 > More information: <https://manned.org/unalias>.
 
 - Remove an alias:
