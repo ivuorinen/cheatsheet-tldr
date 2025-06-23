@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# bzcat
+
+> This command is an alias of `bzip2 --decompress --stdout`.
+
+- View documentation for the original command:
+
+`tldr bzip2`
