@@ -12,6 +12,10 @@ source: https://github.com/tldr-pages/tldr.git
 
 `echo ${{VARIABLE}}`
 
+- Run variable contents as a command:
+
+`${{VARIABLE}}`
+
 - Print the exit status of the previous command:
 
 `echo $?`
