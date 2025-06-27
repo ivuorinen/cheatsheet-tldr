@@ -1,0 +1,18 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# wpexec
+
+> Run WirePlumber Lua scripts.
+> See also: `wpctl`, `wireplumber`.
+> More information: <https://pipewire.pages.freedesktop.org/wireplumber/scripting/lua_api/lua_introduction.html>.
+
+- Run a WirePlumber script:
+
+`wpexec {{path/to/file.lua}}`
+
+- Display help:
+
+`wpexec --help`
