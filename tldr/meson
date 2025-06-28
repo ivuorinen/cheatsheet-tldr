@@ -24,7 +24,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `meson test`
 
-- Show the help:
+- Display help:
 
 `meson {{[-h|--help]}}`
 

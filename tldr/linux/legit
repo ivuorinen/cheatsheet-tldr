@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Switch to a specified branch, stashing and restoring unstaged changes:
 
-`git switch {{target_branch}}`
+`git sw {{target_branch}}`
 
 - Synchronize current branch, automatically merging or rebasing, and stashing and unstashing:
 
@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Remove the last commit from the history:
 
-`git undo {{--hard}}`
+`git undo --hard`

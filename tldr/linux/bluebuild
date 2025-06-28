@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Generate a Containerfile:
 
-`bluebuild generate --output {{Containerfile}} {{path/to/recipe.yml}}`
+`bluebuild generate {{[-o|--output]}} {{Containerfile}} {{path/to/recipe.yml}}`
 
 - Generate an ISO from a recipe:
 
@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`bluebuild --help`
+`bluebuild {{[-h|--help]}}`

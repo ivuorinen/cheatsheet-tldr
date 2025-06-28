@@ -12,6 +12,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `btrfs version --help`
 
-- Display btrfs-progs version:
+- Display version:
 
 `btrfs version`

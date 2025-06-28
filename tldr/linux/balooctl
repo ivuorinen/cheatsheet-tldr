@@ -38,4 +38,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`balooctl --help`
+`balooctl {{[-h|--help]}}`
