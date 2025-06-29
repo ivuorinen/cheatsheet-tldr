@@ -14,8 +14,8 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`caffeine --help`
+`caffeine {{[-h|--help]}}`
 
 - Display version:
 
-`caffeine --version`
+`caffeine {{[-V|--version]}}`

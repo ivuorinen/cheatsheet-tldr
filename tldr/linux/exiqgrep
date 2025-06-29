@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `exiqgrep -i -f '<{{email@example.com}}>'`
 
-- Match the recipient address:
+- Match the [r]ecipient address:
 
 `exiqgrep -r '{{email@example.com}}'`
 
@@ -28,6 +28,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `exiqgrep -f '^<>$'`
 
-- Display the count of bounced messages:
+- Display the [c]ount of bounced messages:
 
 `exiqgrep -c -f '^<>$'`

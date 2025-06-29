@@ -39,4 +39,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`abroot --help`
+`abroot {{[-h|--help]}}`

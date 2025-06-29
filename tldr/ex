@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # ex
 
-> Command-line text editor.
+> Text editor.
 > See also: `vim`.
 > More information: <https://www.vim.org>.
 

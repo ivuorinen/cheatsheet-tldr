@@ -1,0 +1,29 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# vlock
+
+> Lock virtual console.
+> More information: <https://manned.org/vlock>.
+
+- Lock current virtual console session:
+
+`vlock`
+
+- Lock current virtual console session via flag:
+
+`vlock {{[-c|--current]}}`
+
+- Lock all virtual console sessions:
+
+`vlock {{[-a|--all]}}`
+
+- Show help:
+
+`vlock {{[-h|--help]}}`
+
+- Show version:
+
+`vlock {{[-v|--version]}}`

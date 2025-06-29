@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`fprintd-verify --help`
+`fprintd-verify {{[-h|--help]}}`
