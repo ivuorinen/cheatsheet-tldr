@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # raco
 
-> Racket command-line tools.
+> Racket tools.
 > More information: <https://docs.racket-lang.org/raco/>.
 
 - Install a package, automatically installing dependencies:

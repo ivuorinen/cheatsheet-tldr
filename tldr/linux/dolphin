@@ -35,4 +35,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`dolphin --help`
+`dolphin {{[-h|--help]}}`
