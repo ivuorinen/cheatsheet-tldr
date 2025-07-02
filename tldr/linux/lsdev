@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# lsdev
+
+> Display installed hardware detected in the `/proc` director.
+> More information: <https://manned.org/lsdev>.
+
+- Show list of installed hardware:
+
+`lsdev`
