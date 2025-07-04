@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show the network address of the host name:
 
-`hostname {{[-i|--ip-addresses]}}`
+`hostname {{[-i|--ip-address]}}`
 
 - Show the FQDN (Fully Qualified Domain Name):
 
