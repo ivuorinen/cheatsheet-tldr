@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# dnf deplist
+
+> This command is an alias of `dnf repoquery --deplist`.
+
+- View documentation for the original command:
+
+`tldr dnf repoquery`

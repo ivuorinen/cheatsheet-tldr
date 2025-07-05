@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# dnf install
+
+> Query packages for information.
+> More information: <https://dnf.readthedocs.io/en/latest/command_ref.html#repoquery-command>.
+
+- Query a package for its dependencies:
+
+`dnf {{[rq|repoquery]}} --deplist {{package}}`

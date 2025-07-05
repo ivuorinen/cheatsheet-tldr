@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show extra debugging output:
 
-`zapier analytics {{[-m|--mode]}} {{enabled|anonymous|disabled}} {{-d|--debug}}`
+`zapier analytics {{[-m|--mode]}} {{enabled|anonymous|disabled}} {{[-d|--debug]}}`

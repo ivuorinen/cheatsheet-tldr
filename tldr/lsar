@@ -31,4 +31,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`lsar {{-h|--help}}`
+`lsar {{[-h|--help]}}`

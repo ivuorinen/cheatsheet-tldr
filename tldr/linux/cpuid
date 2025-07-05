@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # cpuid
 
 > Display detailed information about all CPUs.
-> More information: <https://manned.org/man/cpuid.1>.
+> More information: <https://manned.org/cpuid.1>.
 
 - Display information for all CPUs:
 
