@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# cs2
+
+> This command is an alias of `counter strike 2`.
+
+- View documentation for the original command:
+
+`tldr counter strike 2`
