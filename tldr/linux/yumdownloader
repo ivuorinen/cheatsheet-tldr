@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# yumdownloader
+
+> Historical YUM package downloader for Fedora installations; now deprecated.
+> This command is an alias of `dnf download`.
+
+- View documentation for the original command:
+
+`tldr dnf download`

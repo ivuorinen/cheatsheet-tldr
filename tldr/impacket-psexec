@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# impacket-psexec
+
+> This command is an alias of `psexec.py`.
+
+- View documentation for the original command:
+
+`tldr psexec.py`
