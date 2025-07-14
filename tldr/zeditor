@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# zeditor
+
+> This command is an alias of `zed`.
+
+- View documentation for the original command:
+
+`tldr zed`
