@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Evaluate a JavaScript expression:
 
-`d8 -e "{{code}}`
+`d8 -e "{{code}}"`

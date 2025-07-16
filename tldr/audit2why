@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# audit2why
+
+> This command is an alias of `audit2allow --why`.
+
+- View documentation for the original command:
+
+`tldr audit2allow`
