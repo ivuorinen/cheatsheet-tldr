@@ -10,8 +10,8 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`btrfs version --help`
+`btrfs {{[v|version]}} --help`
 
 - Display version:
 
-`btrfs version`
+`btrfs {{[v|version]}}`

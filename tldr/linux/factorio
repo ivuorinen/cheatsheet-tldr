@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, linux]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# factorio
+# Factorio
 
 > Create and start a headless Factorio server.
 > More information: <https://wiki.factorio.com/Multiplayer>.

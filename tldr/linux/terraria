@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, linux]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# terraria
+# Terraria
 
 > Create and start a headless Terraria server.
 > More information: <https://terraria.wiki.gg/wiki/Server>.
