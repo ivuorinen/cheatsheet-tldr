@@ -39,4 +39,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Build only the specified binary:
 
-`cargo --bin {{name}}`
+`cargo rustc --bin {{name}}`
