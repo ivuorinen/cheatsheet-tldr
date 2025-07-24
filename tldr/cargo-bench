@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `cargo bench --no-fail-fast`
 
-- Compile, but don’t run benchmarks:
+- Compile, but don't run benchmarks:
 
 `cargo bench --no-run`
 
@@ -36,6 +36,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `cargo bench --bins`
 
-- Benchmark the package’s library:
+- Benchmark the package's library:
 
 `cargo bench --lib`

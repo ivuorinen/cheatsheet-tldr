@@ -17,7 +17,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `secretsdump.py -hashes {{LM_Hash}}:{{NT_Hash}} {{domain}}/{{username}}@{{target}}`
 
-- Dump credentials from Active Directory’s NTDS.dit file:
+- Dump credentials from Active Directory's NTDS.dit file:
 
 `secretsdump.py -just-dc {{domain}}/{{username}}:{{password}}@{{target}}`
 
