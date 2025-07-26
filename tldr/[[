@@ -13,7 +13,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `[[ ${{variable}} {{==|!=}} "{{string}}" ]]`
 
-- Test if a given string conforms the specified glob/regex:
+- Test if a given string conforms the specified glob/`regex`:
 
 `[[ ${{variable}} {{==|=~}} {{pattern}} ]]`
 

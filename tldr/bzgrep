@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `bzgrep "{{search_pattern}}" {{path/to/file}}`
 
-- Use extended regular expressions (supports `?`, `+`, `{}`, `()` and `|`), in case-insensitive mode:
+- Use extended `regex` (supports `?`, `+`, `{}`, `()` and `|`), in case-insensitive mode:
 
 `bzgrep {{[-E|--extended-regexp]}} {{[-i|--ignore-case]}} "{{search_pattern}}" {{path/to/file}}`
 

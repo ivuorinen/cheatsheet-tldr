@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Print the status of a specific PID:
 
-`qm guest exec-status {{vm_id}} {{pid}}`
+`qm {{[g|guest]}} exec-status {{vm_id}} {{pid}}`

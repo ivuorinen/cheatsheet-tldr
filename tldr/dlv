@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Compile and begin tracing a program:
 
-`dlv trace {{package}} --regexp '{{regular_expression}}'`
+`dlv trace {{package}} --regexp '{{regex}}'`

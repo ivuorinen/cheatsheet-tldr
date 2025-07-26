@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Generate a cloudinit file for a specific configuration type:
 
-`qm cloudinit dump {{virtual_machine_id}} {{meta|network|user}}`
+`qm {{[clou|cloudinit]}} dump {{virtual_machine_id}} {{meta|network|user}}`

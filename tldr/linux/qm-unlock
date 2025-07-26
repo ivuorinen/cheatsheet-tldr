@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Unlock a specific virtual machine:
 
-`qm unlock {{vm_id}}`
+`qm {{[u|unlock]}} {{vm_id}}`
