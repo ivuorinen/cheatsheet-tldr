@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Refresh the output every 2 seconds:
 
-`free {{[-s|--seconds]}} {{2}}`
+`free {{[-s|--seconds]}} 2`

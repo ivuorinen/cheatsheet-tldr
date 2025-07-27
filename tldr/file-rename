@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# file-rename
+
+> This command is an alias of `rename`.
+
+- View documentation for the original command:
+
+`tldr -p common rename`
