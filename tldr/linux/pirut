@@ -1,0 +1,14 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pirut
+
+> Graphical frontend for `yum`.
+> See also: `yum`.
+> More information: <https://manned.org/pirut>.
+
+- Launch `pirut`:
+
+`pirut`
