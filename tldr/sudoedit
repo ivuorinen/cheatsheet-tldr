@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# sudoedit
+
+> This command is an alias of `sudo --edit`.
+
+- View documentation for the original command:
+
+`tldr sudo`
