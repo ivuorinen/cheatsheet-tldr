@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # mysql
 
 > The MySQL tool.
-> More information: <https://www.mysql.com/>.
+> More information: <https://manned.org/mysql>.
 
 - Connect to a database:
 
