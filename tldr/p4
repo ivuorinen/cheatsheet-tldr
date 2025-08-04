@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # p4
 
 > Perforce Version Control System.
-> More information: <https://www.perforce.com/manuals/cmdref>.
+> More information: <https://ftp.perforce.com/perforce/r16.2/doc/manuals/cmdref/>.
 
 - Log in to the Perforce service:
 
