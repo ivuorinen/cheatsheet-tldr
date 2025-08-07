@@ -3,10 +3,10 @@ syntax: markdown
 tags: [tldr, linux]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# qm rescan
+# qm unlink
 
-> This command is an alias of `qm disk rescan`.
+> This command is an alias of `qm disk unlink`.
 
 - View documentation for the original command:
 
-`tldr qm disk rescan`
+`tldr qm disk unlink`

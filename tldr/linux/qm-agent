@@ -3,10 +3,10 @@ syntax: markdown
 tags: [tldr, linux]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# qm rescan
+# qm agent
 
-> This command is an alias of `qm disk rescan`.
+> This command is an alias of `qm guest cmd`.
 
 - View documentation for the original command:
 
-`tldr qm disk rescan`
+`tldr qm guest cmd`

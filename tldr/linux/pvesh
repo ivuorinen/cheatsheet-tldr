@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pvesh
+
+> Interface with the Proxmox VE API.
+> More information: <https://pve.proxmox.com/pve-docs/pvesh.1.html>.
+
+- List available nodes:
+
+`pvesh get /nodes`
+
+- Discover API paths:
+
+`pvesh ls {{/}}`
