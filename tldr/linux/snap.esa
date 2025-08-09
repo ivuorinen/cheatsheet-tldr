@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# snap
+
+> Sentinel Application Platform (SNAP) for processing satellite data from the European Space Agency (ESA).
+> More information: <https://step.esa.int/main/download/snap-download/>.
+
+- Display all updates:
+
+`snap --nosplash --nogui --modules --list --refresh`
+
+- Display help:
+
+`snap --help`

@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # yaa
 
 > Create and manipulate YAA archives.
-> More information: <https://keith.github.io/xcode-man-pages/yaa.1.html>.
+> More information: <https://www.manpagez.com/man/1/yaa/>.
 
 - Create an archive from a directory:
 

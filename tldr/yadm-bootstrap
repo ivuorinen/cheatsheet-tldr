@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# yadm-bootstrap
+# yadm bootstrap
 
 > Execute Yadm's bootstrap file.
 > This file should be created in `$HOME/.config/yadm/bootstrap`.

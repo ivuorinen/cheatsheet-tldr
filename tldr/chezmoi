@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# Chezmoi
+# chezmoi
 
 > A multi-machine dotfile manager, written in Go.
 > See also: `stow`, `tuckr`, `vcsh`, `homeshick`.

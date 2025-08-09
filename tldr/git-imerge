@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# git-imerge
+# git imerge
 
 > Perform a merge or rebase between two Git branches incrementally.
 > Conflicts between branches are tracked down to pairs of individual commits, to simplify conflict resolution.
@@ -31,4 +31,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Abort imerge operation, and return to the previous branch:
 
-`git-imerge remove && git checkout {{previous_branch}}`
+`git imerge remove && git checkout {{previous_branch}}`

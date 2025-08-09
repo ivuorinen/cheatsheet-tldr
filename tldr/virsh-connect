@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# virsh-connect
+# virsh connect
 
 > Connect to a virtual machine hypervisor.
 > See also: `virsh`.

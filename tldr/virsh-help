@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# virsh-help
+# virsh help
 
 > Display information about `virsh` commands or command groups.
 > See also: `virsh`.

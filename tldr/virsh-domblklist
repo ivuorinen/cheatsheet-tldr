@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# virsh-domblklist
+# virsh domblklist
 
 > List information about block devices associated with a virtual machine.
 > See also: `virsh`.

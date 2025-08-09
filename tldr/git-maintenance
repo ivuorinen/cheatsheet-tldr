@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# git-maintenance
+# git maintenance
 
 > Run tasks to optimize Git repository data.
 > More information: <https://git-scm.com/docs/git-maintenance>.

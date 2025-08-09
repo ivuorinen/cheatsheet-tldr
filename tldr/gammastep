@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# Gammastep
+# gammastep
 
 > Adjust the screen's color temperature according to the time of day.
 > More information: <https://gitlab.com/chinstrap/gammastep>.

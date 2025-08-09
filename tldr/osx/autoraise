@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, osx]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# AutoRaise
+# autoraise
 
 > Automatically raise and/or focus a window when hovering over it with the mouse.
 > More information: <https://github.com/sbmpost/AutoRaise>.

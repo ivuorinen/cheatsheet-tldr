@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# virsh-list
+# virsh list
 
 > List the ID, name, and state of virtual machines.
 > See also: `virsh`.

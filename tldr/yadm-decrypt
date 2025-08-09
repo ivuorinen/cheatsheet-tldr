@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# yadm-decrypt
+# yadm decrypt
 
 > Decrypt files that were encrypted by `yadm`.
 > When activating this command you will be prompted for a password.
