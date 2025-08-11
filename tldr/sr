@@ -1,12 +1,12 @@
 ---
 syntax: markdown
-tags: [tldr, linux]
+tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# libuser-lid
+# sr
 
-> This command is an alias of `lid`.
+> This command is an alias of `surfraw`.
 
 - View documentation for the original command:
 
-`tldr lid.libuser`
+`tldr surfraw`
