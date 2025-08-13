@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # hg log
 
 > Display the revision history of the repository.
-> More information: <https://www.mercurial-scm.org/doc/hg.1.html#log>.
+> More information: <https://www.mercurial-scm.org/help/commands/log>.
 
 - Display the entire revision history of the repository:
 

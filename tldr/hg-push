@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # hg push
 
 > Push changes from the local repository to a specified destination.
-> More information: <https://www.mercurial-scm.org/doc/hg.1.html#push>.
+> More information: <https://www.mercurial-scm.org/help/commands/push>.
 
 - Push changes to the "default" remote path:
 
