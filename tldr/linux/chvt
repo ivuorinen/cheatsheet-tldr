@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# chvt
+
+> Change foreground virtual terminal.
+> More information: <https://manned.org/chvt>.
+
+- Change to a specific TTY:
+
+`sudo chvt {{3}}`

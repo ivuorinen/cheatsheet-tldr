@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # devcontainer
 
 > Use a Docker container as a development environment.
-> More information: <https://containers.dev/>.
+> More information: <https://containers.dev/implementors/reference/>.
 
 - Create and run a Dev Container:
 

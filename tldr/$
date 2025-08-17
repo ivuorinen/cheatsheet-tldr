@@ -38,4 +38,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Print out a Bash array:
 
-`echo ${array[@]}`
+`echo ${{{array_name[@]}}}`

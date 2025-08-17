@@ -23,7 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Replace all occurrences of `string1`:
 
-`^{{string1}}^{{string2}}^:&`
+`^{{string1}}^{{string2}}^:g&`
 
 - Print the substituted command without running it:
 

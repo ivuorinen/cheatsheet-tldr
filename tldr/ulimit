@@ -23,7 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Set max per-user process limit:
 
-`ulimit -u 30`
+`ulimit -u {{30}}`
 
 - Display help (Bash only):
 

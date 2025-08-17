@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Label a pod:
 
-`kubectl label pod {{pod_name}} {{key}}={{value}}`
+`kubectl label {{[po|pod]}} {{pod_name}} {{key}}={{value}}`
 
 - Update a pod label by overwriting the existing value:
 
@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Label all pods in the namespace:
 
-`kubectl label pods --all {{key}}={{value}}`
+`kubectl label {{[po|pods]}} --all {{key}}={{value}}`
 
 - Label a pod identified by the pod definition file:
 
@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Remove the label from a pod:
 
-`kubectl label pod {{pod_name}} {{key}}-`
+`kubectl label {{[po|pod]}} {{pod_name}} {{key}}-`
