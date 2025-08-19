@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - List users of a specific group:
 
-`sudo lid --group {{name}}`
+`sudo lid --group {{group_name}}`
