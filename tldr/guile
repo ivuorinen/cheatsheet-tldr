@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # guile
 
 > Guile Scheme interpreter.
-> More information: <https://www.gnu.org/software/guile>.
+> More information: <https://www.gnu.org/software/guile/manual/guile.html#Invoking-Guile>.
 
 - Start a REPL (interactive shell):
 
