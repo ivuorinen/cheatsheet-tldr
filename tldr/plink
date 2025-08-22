@@ -1,0 +1,14 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# plink
+
+> PuTTy's command line utility.
+> See also: `ssh`.
+> More information: <https://manned.org/plink>.
+
+- Connect to an address:
+
+`plink {{IP_address}}`
