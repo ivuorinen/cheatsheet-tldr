@@ -12,3 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Restrict line protocols to `ssh`:
 
 `transport input ssh`
+
+- Restrict line protocols to `telnet`:
+
+`transport input telnet`
