@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# Greater than
+# >
 
 > Redirect output.
 > More information: <https://gnu.org/software/bash/manual/bash.html#Redirecting-Output>.

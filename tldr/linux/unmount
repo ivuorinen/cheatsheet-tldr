@@ -3,7 +3,7 @@ syntax: markdown
 tags: [tldr, linux]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# umount
+# unmount
 
 > The correct command is `umount` (u-mount).
 > More information: <https://manned.org/umount.8>.
