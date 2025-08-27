@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pacsift
+
+> Query and filter packages.
+> More information: <https://github.com/andrewgregory/pacutils/blob/master/doc/pacsift.pod>.
+
+- List all available packages:
+
+`pacsift`
+
+- Filter packages that provide a given package:
+
+`pacsift --satisfies {{package}}`
