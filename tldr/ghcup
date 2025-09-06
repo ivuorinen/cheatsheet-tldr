@@ -13,7 +13,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `ghcup tui`
 
-- List available GHC/cabal versions:
+- List available GHC/Cabal versions:
 
 `ghcup list`
 
@@ -25,7 +25,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `ghcup install ghc {{version}}`
 
-- Set the currently "active" GHC version:
+- Activate a specific GHC version:
 
 `ghcup set ghc {{version}}`
 
