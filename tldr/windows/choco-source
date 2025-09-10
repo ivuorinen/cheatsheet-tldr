@@ -14,12 +14,12 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Add a new package source:
 
-`choco source add --name {{name}} --source {{url}}`
+`choco source add {{[-n|--name]}} {{name}} {{[-s|--source]}} {{url}}`
 
 - Add a new package source with credentials:
 
-`choco source add --name {{name}} --source {{url}} --user {{username}} --password {{password}}`
+`choco source add {{[-n|--name]}} {{name}} {{[-s|--source]}} {{url}} {{[-u|--user]}} {{username}} {{[-p|--password]}} {{password}}`
 
 - Add a new package source with a client certificate:
 
-`choco source add --name {{name}} --source {{url}} --cert {{path	o
+`choco source add {{[-n|--name]}} {{name}} {{[-s|--source]}} {{url}} --cert {{path	o

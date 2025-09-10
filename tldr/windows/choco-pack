@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Package a NuGet specification to a specific directory:
 
-`choco pack {{path	o\specification_file}} --output-directory {{path	o\output_directory}}`
+`choco pack {{path	o\specification_file}} {{[--out|--output-directory]}} {{path	o\output_directory}}`
