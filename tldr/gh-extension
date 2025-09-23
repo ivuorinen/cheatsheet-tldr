@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - List installed extensions:
 
-`gh {{[ext|extension]}} list`
+`gh {{[ext|extension]}} {{[ls|list]}}`
 
 - Upgrade a specific extension:
 
@@ -30,7 +30,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - List installed extensions:
 
-`gh {{[ext|extension]}} list`
+`gh {{[ext|extension]}} {{[ls|list]}}`
 
 - Remove an extension:
 
@@ -38,4 +38,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help about a subcommand:
 
-`gh {{[ext|extension]}} {{subcommand}} --help`
+`gh {{[ext|extension]}} {{subcommand}} {{[-h|--help]}}`
