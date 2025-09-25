@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # zig
 
 > The Zig compiler and toolchain.
-> More information: <https://ziglang.org>.
+> More information: <https://ziglang.org/documentation/master/>.
 
 - Compile the project in the current directory:
 

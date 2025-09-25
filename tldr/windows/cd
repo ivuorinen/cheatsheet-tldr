@@ -17,11 +17,11 @@ source: https://github.com/tldr-pages/tldr.git
 
 `cd`
 
-- Go to a specific directory in the same drive:
+- Go to a specific directory on the same drive:
 
 `cd {{path	o\directory}}`
 
-- Go to a specific directory in a different [d]rive:
+- Go to a specific directory on a different [d]rive:
 
 `cd /d {{C}}:{{path	o\directory}}`
 
