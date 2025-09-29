@@ -16,10 +16,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `chainctl auth logout`
 
-- Check which version you have installed:
-
-`chainctl version`
-
 - Update to the latest version:
 
 `chainctl update`
@@ -39,3 +35,7 @@ source: https://github.com/tldr-pages/tldr.git
 - List package version data from repositories available to your account (e.g., package_name=go):
 
 `chainctl packages versions list {{package_name}}`
+
+- Display version:
+
+`chainctl version`

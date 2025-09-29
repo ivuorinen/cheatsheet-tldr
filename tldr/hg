@@ -21,6 +21,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `hg help {{command}}`
 
-- Check the Mercurial version:
+- Display version:
 
 `hg --version`

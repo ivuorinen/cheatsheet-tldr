@@ -13,10 +13,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `puppet {{subcommand}}`
 
-- Check the Puppet version:
-
-`puppet --version`
-
 - Display help:
 
 `puppet --help`
@@ -24,3 +20,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Display help for a subcommand:
 
 `puppet help {{subcommand}}`
+
+- Display version:
+
+`puppet --version`
