@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gh agent
+
+> This command is an alias of `gh agent-task`.
+
+- View documentation for the original command:
+
+`tldr gh agent-task`
