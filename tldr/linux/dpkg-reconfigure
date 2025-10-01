@@ -15,3 +15,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Reconfigure console font setup:
 
 `dpkg-reconfigure console-setup`
+
+- Reconfigure the timezone:
+
+`dpkg-reconfigure tzdata`
