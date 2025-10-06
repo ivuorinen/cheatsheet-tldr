@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ic
+
+> This command is an alias of `ibmcloud`.
+
+- View documentation for the original command:
+
+`tldr ibmcloud`
