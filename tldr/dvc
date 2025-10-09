@@ -13,7 +13,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `dvc {{subcommand}}`
 
-- Display general help:
+- Display help:
 
 `dvc {{[-h|--help]}}`
 

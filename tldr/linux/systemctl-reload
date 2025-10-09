@@ -19,4 +19,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Reload a service for the current user:
 
-`systemctl --user reload {{pipewire}}`
+`systemctl reload {{pipewire}} --user`

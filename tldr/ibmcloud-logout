@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ibmcloud logout
+
+> Log out of the IBM Cloud CLI.
+> More information: <https://cloud.ibm.com/docs/cli?topic=cli-ibmcloud_cli#ibmcloud_logout>.
+
+- Log out of the current session:
+
+`ibmcloud logout`

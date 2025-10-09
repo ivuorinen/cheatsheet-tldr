@@ -14,4 +14,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Start a user unit:
 
-`systemctl start --user {{unit}}`
+`systemctl start {{unit}} --user`

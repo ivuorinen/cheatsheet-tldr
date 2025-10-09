@@ -21,6 +21,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `finger {{user}}@{{host}} -l`
 
-- Display help information:
+- Display help:
 
 `finger /?`

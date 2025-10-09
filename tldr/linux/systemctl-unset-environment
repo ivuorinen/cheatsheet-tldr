@@ -19,4 +19,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Unset an environment variable in the user service manager:
 
-`systemctl --user unset-environment {{var}}`
+`systemctl unset-environment {{var}} --user`

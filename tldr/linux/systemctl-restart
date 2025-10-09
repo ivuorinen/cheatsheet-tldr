@@ -19,4 +19,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Restart a user unit:
 
-`systemctl restart --user {{unit}}`
+`systemctl restart {{unit}} --user`

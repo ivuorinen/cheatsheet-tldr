@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Add a user-level `Wants` dependency:
 
-`systemctl --user add-wants {{target}} {{unit}}`
+`systemctl add-wants {{target}} {{unit}} --user`

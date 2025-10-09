@@ -34,4 +34,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show the status of a user unit:
 
-`systemctl status --user {{unit}}`
+`systemctl status {{unit}} --user`

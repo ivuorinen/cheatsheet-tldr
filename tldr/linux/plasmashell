@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `plasmashell --replace & disown`
 
-- Display help on command-line options:
+- Display help:
 
 `plasmashell {{[-h|--help]}}`
 
