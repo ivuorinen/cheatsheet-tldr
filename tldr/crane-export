@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Read image from `stdin`:
 
-`crane export - {{path/to/filename}}`
+`crane export - {{path/to/file}}`
