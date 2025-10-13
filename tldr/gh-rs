@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gh rs
+
+> This command is an alias of `gh ruleset`.
+
+- View documentation for the original command:
+
+`tldr gh ruleset`

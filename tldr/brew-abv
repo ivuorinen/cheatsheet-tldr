@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# brew abv
+
+> This command is an alias of `brew info`.
+
+- View documentation for the original command:
+
+`tldr brew info`
