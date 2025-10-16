@@ -31,5 +31,5 @@ source: https://github.com/tldr-pages/tldr.git
 
 - View multiple images from the web:
 
-`curl -Osw '%{filename_effective}
+`curl {{[-Osw|--remote-name --silent --write-out]}} '%{filename_effective}
 ' '{{http://www.example.com/[1-10].jpg}}' | imv`
