@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `apropos {{regex}}`
 
-- Search without restricting the output to the terminal width ([l]ong output):
+- Search without restricting the output to the terminal width (long output):
 
 `apropos {{[-l|--long]}} {{regex}}`
 
