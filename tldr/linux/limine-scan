@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# limine-scan
+
+> This command is an alias of `limine-entry-tool --scan`.
+
+- View documentation for the original command:
+
+`tldr limine-entry-tool`
