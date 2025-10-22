@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `pkl eval {{module.pkl}}`
 
-- Run as a server that communicates over standard input/output:
+- Run as a server that communicates over `stdin` and `stdout`:
 
 `pkl server`
 
