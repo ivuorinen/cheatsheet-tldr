@@ -1,0 +1,29 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# Compress-Archive
+
+> A cmdlet in PowerShell is used to create compressed (zipped) archive files.
+> More information: <https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.archive/compress-archive>.
+
+- Compress a single file:
+
+`Compress-Archive -Path {{path	oile.txt}} -DestinationPath {{path	oile.zip}}`
+
+- Compress multiple files:
+
+`Compress-Archive -Path {{path	oile1, path	oile2, ...}} -DestinationPath {{path	oiles.zip}}`
+
+- Compress a directory:
+
+`Compress-Archive -Path {{path	o\directory}} -DestinationPath {{path	o\directory.zip}}`
+
+- Update an existing archive:
+
+`Compress-Archive -Path {{path	oile}} -DestinationPath {{path	o\directory.zip}} -Update`
+
+- Set compression level:
+
+`Compress-Archive -Path {{path	o\directory}} -DestinationPath {{path	o\directory.zip}} -CompressionLevel {{Optimal|Fastest|NoCompression}}`
