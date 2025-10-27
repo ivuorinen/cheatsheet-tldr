@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `screenfetch`
 
-- Take a screenshot (requires 'scrot'):
+- Take a screenshot (requires `scrot`):
 
 `screenfetch -s`
 
