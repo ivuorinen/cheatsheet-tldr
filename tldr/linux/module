@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # module
 
-> Modify a users' environment using the module command.
+> Modify a users' environment.
 > More information: <https://lmod.readthedocs.io/en/latest/010_user.html>.
 
 - Display available modules:
@@ -35,3 +35,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Specify user-created modules:
 
 `module use {{path/to/module_file1 path/to/module_file2 ...}}`
+
+- Save the current set of loaded modules:
+
+`module save {{collection_name}}`
