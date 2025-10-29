@@ -11,7 +11,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Open a specific URL or file:
 
-`chromium {{https://example.com|path/to/file.html}}`
+`chromium {{https://example.com|path	oile.html}}`
 
 - Open in incognito mode (use `--inprivate` for Microsoft Edge):
 
@@ -31,11 +31,11 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Open with a custom profile directory:
 
-`chromium --user-data-dir {{path/to/directory}}`
+`chromium --user-data-dir {{path	o\directory}}`
 
 - Open without CORS validation (useful to test an API):
 
-`chromium --user-data-dir {{path/to/directory}} --disable-web-security`
+`chromium --user-data-dir {{path	o\directory}} --disable-web-security`
 
 - Open with a DevTools window for each tab opened:
 

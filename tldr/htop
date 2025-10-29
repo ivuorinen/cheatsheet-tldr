@@ -34,7 +34,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `htop --readonly`
 
-- See interactive commands while running htop:
+- See interactive commands while running `htop`:
 
 `{{<F1>|<?>}}`
 
