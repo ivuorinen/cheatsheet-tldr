@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ghy
+
+> This command is an alias of `Get-History`.
+
+- View documentation for the original command:
+
+`tldr Get-History`

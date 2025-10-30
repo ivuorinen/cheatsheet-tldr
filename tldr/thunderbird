@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Use a specific user profile directory:
 
-`thunderbird --profile {{path/to/profile/directory}}`
+`thunderbird --profile {{path/to/profile_directory}}`
