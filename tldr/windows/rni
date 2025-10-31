@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# rni
+
+> This command is an alias of `Rename-Item`.
+
+- View documentation for original command:
+
+`tldr Rename-Item`
