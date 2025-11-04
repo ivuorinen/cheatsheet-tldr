@@ -23,4 +23,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Forward `stdin`/`stdout` to a custom D-Bus address:
 
-`systemd-stdio-bridge {{[-p|--bus-path]}} unix:path={{/custom/dbus/socket}}`
+`systemd-stdio-bridge {{[-p|--bus-path]}} unix:path=/{{path/to/dbus_socket}}`
