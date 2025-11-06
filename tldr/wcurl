@@ -23,4 +23,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Resume from an interrupted download:
 
-`wcurl --curl-options "--continue-at -" {{https://example.com/foo}}`
+`wcurl --curl-options "--clobber --continue-at -" {{https://example.com/foo}}`
