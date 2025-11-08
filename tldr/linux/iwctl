@@ -6,6 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # iwctl
 
 > Control the `iwd` network supplicant.
+> See also: `nmcli`, `iw`.
 > More information: <https://manned.org/iwctl>.
 
 - Run `iwctl` in interactive mode:

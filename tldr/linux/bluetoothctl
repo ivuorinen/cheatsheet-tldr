@@ -6,6 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # bluetoothctl
 
 > Manage Bluetooth devices.
+> See also: `bluetui`.
 > More information: <https://manned.org/bluetoothctl>.
 
 - Enter the `bluetoothctl` shell:
