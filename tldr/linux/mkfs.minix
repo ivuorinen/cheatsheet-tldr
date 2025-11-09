@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Create a Minix filesystem inside partition Y on device X:
 
-`mkfs.minix {{/dev/sdXY}}`
+`sudo mkfs.minix {{/dev/sdXY}}`
