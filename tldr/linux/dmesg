@@ -6,6 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # dmesg
 
 > Write the kernel messages to `stdout`.
+> See also: `journalctl`.
 > More information: <https://manned.org/dmesg>.
 
 - Show kernel messages:
