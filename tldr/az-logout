@@ -15,4 +15,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Log out a specific username:
 
-`az logout --username {{alias@somedomain.com}}`
+`az logout --username {{alias@example.com}}`

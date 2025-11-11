@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# hwloc-ls
+
+> This command is an alias of `lstopo-no-graphics`.
+
+- View documentation for the original command:
+
+`tldr lstopo-no-graphics`
