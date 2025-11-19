@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`koji download-build --help`
+`koji download-build {{[-h|--help]}}`
