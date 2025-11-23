@@ -23,7 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display only specific fields:
 
-`sudo lvs {{[-o|--options]}} {{field_name_1}},{{field_name_2}}`
+`sudo lvs {{[-o|--options]}} {{field_name_1,field_name_2,...}}`
 
 - Append field to default display:
 

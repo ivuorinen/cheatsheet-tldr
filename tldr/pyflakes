@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Check all Python files found in multiple directories:
 
-`pyflakes iterSourceCode {{path/to/directory_1}} {{path/to/directory_2}}`
+`pyflakes iterSourceCode {{path/to/directory_1 path/to/directory_2 ...}}`

@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # pct status
 
 > Display the status of a container.
-> More information: <https://pve.proxmox.com/pve-docs/pct.1.html>.
+> More information: <https://pve.proxmox.com/pve-docs/pct.1.html#cli_pct_status>.
 
 - Display if the container is running:
 
