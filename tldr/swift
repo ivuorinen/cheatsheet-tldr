@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # swift
 
 > Create, run and build Swift projects.
-> More information: <https://swift.org>.
+> More information: <https://manned.org/swiftc>.
 
 - Start a REPL (interactive shell):
 
@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Compile project for release:
 
-`swift build -c release`
+`swift build {{[-c|--configuration]}} {{debug|release}}`

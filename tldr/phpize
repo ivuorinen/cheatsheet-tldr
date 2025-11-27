@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # phpize
 
 > Prepare a PHP extension for compiling.
-> More information: <https://www.php.net/manual/install.pecl.phpize>.
+> More information: <https://manned.org/phpize>.
 
 - Prepare the PHP extension in the current directory for compiling:
 
