@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # RsaCtfTool.py
 
 > RSA attack tool for CTF challenges - recover private keys from weak public keys and/or decrypt data.
-> More information: <https://github.com/RsaCtfTool/RsaCtfTool>.
+> More information: <https://github.com/RsaCtfTool/RsaCtfTool#usage>.
 
 - Recover a private key from a public key file:
 

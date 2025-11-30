@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # pigz
 
 > Multithreaded zlib compression utility.
-> More information: <https://github.com/madler/pigz>.
+> More information: <https://manned.org/pigz>.
 
 - Compress a file with default options:
 

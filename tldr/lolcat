@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # lolcat
 
 > Put a rainbow in everything you `cat` to the console.
-> More information: <https://github.com/busyloop/lolcat>.
+> More information: <https://manned.org/lolcat>.
 
 - Print a file to the console in rainbow colors:
 

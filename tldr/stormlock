@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # stormlock
 
 > Centralized locking system.
-> More information: <https://github.com/tmccombs/stormlock>.
+> More information: <https://github.com/tmccombs/stormlock#usage>.
 
 - Acquire a lease for resource:
 

@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Lock the database:
 
-`paclock`
+`sudo paclock`
 
 - Write the lock file path to `stdout` (without locking the database):
 
@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Unlock the database:
 
-`paclock --unlock`
+`sudo paclock --unlock`
 
 - Display help:
 
