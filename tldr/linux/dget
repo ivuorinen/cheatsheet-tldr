@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # dget
 
 > Download Debian packages.
-> More information: <https://manned.org/dget.1>.
+> More information: <https://manned.org/dget>.
 
 - Download a binary package:
 

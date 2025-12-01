@@ -28,6 +28,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `deepseek --local`
 
-- Show help information:
+- Display help:
 
 `deepseek --help`

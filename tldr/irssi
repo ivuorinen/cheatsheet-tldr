@@ -16,10 +16,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `irssi {{[-c|--connect]}} {{irc.example.com}} {{[-p|--port]}} {{port}}`
 
-- Display help:
-
-`irssi {{[-?|--help]}}`
-
 - Join a channel:
 
 `/join {{#channelname}}`
@@ -31,3 +27,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Exit the application cleanly and quitting any server(s):
 
 `/quit`
+
+- Display help:
+
+`irssi {{[-?|--help]}}`
