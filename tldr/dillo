@@ -28,10 +28,10 @@ source: https://github.com/tldr-pages/tldr.git
 
 `dillo {{[-f|--fullwindow]}}`
 
-- Display version:
-
-`dillo {{[-v|--version]}}`
-
 - Display help:
 
 `dillo {{[-h|--help]}}`
+
+- Display version:
+
+`dillo {{[-v|--version]}}`

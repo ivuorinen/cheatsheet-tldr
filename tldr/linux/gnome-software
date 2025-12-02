@@ -20,6 +20,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `gnome-software --details {{package}}`
 
-- Display the version:
+- Display version:
 
 `gnome-software --version`

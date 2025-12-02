@@ -20,6 +20,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `sudo EDITOR={{editor}} visudo`
 
-- Display version information:
+- Display version:
 
 `visudo {{[-V|--version]}}`

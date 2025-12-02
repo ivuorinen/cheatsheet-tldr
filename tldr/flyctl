@@ -36,6 +36,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `flyctl status --app {{app_name}}`
 
-- Display version information:
+- Display version:
 
 `flyctl version`

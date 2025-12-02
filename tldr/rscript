@@ -20,6 +20,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `Rscript -e {{expression1}} -e {{expression2}}`
 
-- Display R version:
+- Display version:
 
 `Rscript --version`

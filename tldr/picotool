@@ -28,10 +28,10 @@ source: https://github.com/tldr-pages/tldr.git
 
 `picotool otp list`
 
-- Display version:
-
-`picotool version`
-
 - Display help:
 
 `picotool help`
+
+- Display version:
+
+`picotool version`

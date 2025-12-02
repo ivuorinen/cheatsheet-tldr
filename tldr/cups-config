@@ -24,6 +24,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `cups-config --help`
 
-- Display CUPS version:
+- Display version:
 
 `cups-config --version`

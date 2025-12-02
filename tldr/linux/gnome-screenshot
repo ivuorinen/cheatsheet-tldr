@@ -36,6 +36,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `gnome-screenshot {{[-d|--delay]}} {{10}} {{[-c|--clipboard]}}`
 
-- Display the version:
+- Display version:
 
 `gnome-screenshot --version`

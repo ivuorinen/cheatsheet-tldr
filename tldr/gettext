@@ -18,6 +18,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `gettext {{[-h|--help]}}`
 
-- Display gettext version:
+- Display version:
 
 `gettext {{[-V|--version]}}`
