@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Remove all untracked files:
 
-`conda package {{[-r|--reset}}`
+`conda package {{[-r|--reset]}}`
 
 - Display all untracked files:
 

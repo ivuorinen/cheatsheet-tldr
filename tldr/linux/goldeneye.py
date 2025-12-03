@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Test a specific website in debug mode:
 
-`{{path/to/}}goldeneye.py {{url}} {{-d|--debug}}`
+`{{path/to/}}goldeneye.py {{url}} {{[-d|--debug]}}`
 
 - Display help:
 
