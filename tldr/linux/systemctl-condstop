@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# systemctl condstop
+
+> This command is an alias of `systemctl stop`.
+
+- View documentation for the original command:
+
+`tldr systemctl stop`

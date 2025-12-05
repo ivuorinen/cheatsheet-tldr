@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# systemctl condrestart
+
+> This command is an alias of `systemctl try-restart`.
+
+- View documentation for the original command:
+
+`tldr systemctl try-restart`
