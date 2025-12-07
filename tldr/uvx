@@ -1,12 +1,12 @@
 ---
 syntax: markdown
-tags: [tldr, linux]
+tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# br
+# uvx
 
-> This command is an alias of `broot`.
+> This command is an alias of `uv tool run`.
 
 - View documentation for the original command:
 
-`tldr broot`
+`tldr uv tool`
