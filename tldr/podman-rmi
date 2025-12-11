@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # podman rmi
 
-> Remove Podman images.
+> Remove OCI/Docker images.
 > More information: <https://docs.podman.io/en/latest/markdown/podman-rmi.1.html>.
 
 - Remove one or more images given their names:
@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Force remove an image:
 
-`podman rmi --force {{image}}`
+`podman rmi {{[-f|--force]}} {{image}}`
 
 - Remove an image without deleting untagged parents:
 
@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`podman rmi`
+`podman rmi {{[-h|--help]}}`
