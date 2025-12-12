@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Install a dependency:
 
-`expo install <package_name>`
+`expo install {{package_name}}`
 
 - Prebuild native Android/iOS projects:
 
