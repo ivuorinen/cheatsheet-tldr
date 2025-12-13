@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `duf`
 
-- List everything (such as pseudo, duplicate or inaccessible file systems):
+- List everything (such as pseudo, duplicate, or inaccessible file systems):
 
 `duf --all`
 

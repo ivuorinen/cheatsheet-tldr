@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `dfc`
 
-- Display all filesystems including pseudo, duplicate and inaccessible filesystems:
+- Display all filesystems including pseudo, duplicate, and inaccessible filesystems:
 
 `dfc -a`
 

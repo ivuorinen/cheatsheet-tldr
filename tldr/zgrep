@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # zgrep
 
-> Grep text patterns from files within compressed file (equivalent to `grep -Z`).
+> Grep text patterns from files within compressed files.
 > More information: <https://manned.org/zgrep>.
 
 - Grep a pattern in a compressed file (case-sensitive):

@@ -3,10 +3,10 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# zfgrep
+# jira projects
 
-> This command is an alias of `zgrep --fixed-strings`.
+> This command is an alias of `jira project`.
 
 - View documentation for the original command:
 
-`tldr zgrep`
+`tldr jira project`
