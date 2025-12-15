@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# jira sprints
+
+> This command is an alias of `jira sprint`.
+
+- View documentation for the original command:
+
+`tldr jira sprint`

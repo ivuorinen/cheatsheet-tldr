@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# jira issues
+
+> This command is an alias of `jira issue`.
+
+- View documentation for the original command:
+
+`tldr jira issue`
