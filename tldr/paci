@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `paci refresh`
 
-- Configure its behaviour:
+- Configure its behavior:
 
 `paci configure`
 
