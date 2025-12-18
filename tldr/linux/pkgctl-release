@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # pkgctl release
 
-> Release step to commit, tag and upload build artifacts.
+> Release step to commit, tag, and upload build artifacts.
 > More information: <https://manned.org/pkgctl-release>.
 
 - Release a build artifact:

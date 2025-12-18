@@ -20,7 +20,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `rdpsign {{path	oile.rdp}} /q`
 
-- Display verbose warnings, messages and statuses:
+- Display verbose warnings, messages, and statuses:
 
 `rdpsign {{path	oile.rdp}} /v`
 

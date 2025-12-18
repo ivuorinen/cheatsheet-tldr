@@ -11,4 +11,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Start the server:
 
-`{{path/to/DedicatedServer}}`
+`{{path/to}}/DedicatedServer`

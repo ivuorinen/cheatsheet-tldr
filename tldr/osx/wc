@@ -24,6 +24,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `wc -m {{path/to/file}}`
 
-- Use `stdin` to count lines, words and characters (bytes) in that order:
+- Use `stdin` to count lines, words, and characters (bytes) in that order:
 
 `{{find .}} | wc`
