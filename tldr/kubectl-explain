@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show all fields recursively for a resource:
 
-`kubectl explain {{po|pods}} --recursive`
+`kubectl explain {{[po|pods]}} --recursive`
 
 - Display help:
 
