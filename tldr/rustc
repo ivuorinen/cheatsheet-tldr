@@ -7,7 +7,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 > The Rust compiler.
 > Rust projects usually use `cargo` instead of invoking `rustc` directly.
-> More information: <https://doc.rust-lang.org/rustc>.
+> More information: <https://doc.rust-lang.org/stable/rustc/>.
 
 - Compile a binary crate:
 

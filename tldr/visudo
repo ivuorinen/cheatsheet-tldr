@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # visudo
 
 > Safely edit the sudoers file.
-> More information: <https://www.sudo.ws/docs/man/visudo.man>.
+> More information: <https://www.sudo.ws/docs/man/visudo.man/>.
 
 - Edit the sudoers file:
 

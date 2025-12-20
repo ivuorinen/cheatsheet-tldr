@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # grim
 
 > Grab images (Screenshots) from a Wayland compositor.
-> More information: <https://sr.ht/~emersion/grim>.
+> More information: <https://sr.ht/~emersion/grim/>.
 
 - Screenshot all outputs:
 

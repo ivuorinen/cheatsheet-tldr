@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # sass
 
 > Convert SCSS or Sass files to CSS.
-> More information: <https://sass-lang.com/documentation/cli/dart-sass>.
+> More information: <https://sass-lang.com/documentation/cli/dart-sass/>.
 
 - Convert a SCSS or Sass file to CSS and print out the result:
 

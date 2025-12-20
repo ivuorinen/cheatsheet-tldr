@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # mongodump
 
 > Utility to export the contents of a MongoDB instance.
-> More information: <https://docs.mongodb.com/database-tools/mongodump/>.
+> More information: <https://www.mongodb.com/docs/database-tools/mongodump/>.
 
 - Create a dump of all databases (this will place the files inside a directory called "dump"):
 

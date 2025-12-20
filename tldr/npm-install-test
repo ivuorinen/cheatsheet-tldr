@@ -7,7 +7,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 > Equivalent to running `npm install` followed by `npm test`.
 > Note: `it` can be used as shorthand for `install-test`.
-> More information: <https://docs.npmjs.com/cli/npm-install-test>.
+> More information: <https://docs.npmjs.com/cli/npm-install-test/>.
 
 - Install all dependencies and then run tests:
 

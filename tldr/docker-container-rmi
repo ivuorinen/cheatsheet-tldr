@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# docker rmi
+
+> This command is an alias of `docker image rm`.
+
+- View documentation for the original command:
+
+`tldr docker image rm`

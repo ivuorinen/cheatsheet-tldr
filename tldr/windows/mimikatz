@@ -37,6 +37,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `mimikatz "kerberos::list /export"`
 
-- Exit mimikatz:
+- [Interactive] Exit mimikatz:
 
 `exit`

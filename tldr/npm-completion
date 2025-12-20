@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # npm completion
 
 > Enable or set up tab-completion for npm commands.
-> More information: <https://docs.npmjs.com/cli/npm-completion>.
+> More information: <https://docs.npmjs.com/cli/npm-completion/>.
 
 - Enable tab-completion for the current shell session:
 

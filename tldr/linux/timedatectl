@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # timedatectl
 
 > Control the system time and date.
-> More information: <https://www.freedesktop.org/software/systemd/man/timedatectl.html>.
+> More information: <https://www.freedesktop.org/software/systemd/man/latest/timedatectl.html>.
 
 - Check the current system clock time:
 

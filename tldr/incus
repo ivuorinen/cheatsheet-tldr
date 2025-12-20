@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # incus
 
 > Modern, secure, and powerful system container and virtual machine manager.
-> More information: <https://linuxcontainers.org/incus/docs/main>.
+> More information: <https://linuxcontainers.org/incus/docs/main/>.
 
 - List all containers and virtual machines (both running and stopped):
 

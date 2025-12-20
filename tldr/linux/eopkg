@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # eopkg
 
 > Package manager for Solus.
-> More information: <https://help.getsol.us/docs/user/package-management/basics>.
+> More information: <https://help.getsol.us/docs/user/package-management/basics/>.
 
 - Install a specific package:
 
