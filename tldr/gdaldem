@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # gdaldem
 
 > Analyze and visualize digital elevation models (DEM).
-> More information: <https://gdal.org/programs/gdaldem.html>.
+> More information: <https://gdal.org/en/stable/programs/gdaldem.html>.
 
 - Compute the hillshade of a DEM:
 
