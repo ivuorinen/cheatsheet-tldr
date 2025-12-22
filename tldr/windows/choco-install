@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `choco install {{path	o\packages_file.config}}`
 
-- Install a specific `nuspec` or `nupkg` file:
+- Install a specific `.nuspec` or `.nupkg` file:
 
 `choco install {{path	oile}}`
 

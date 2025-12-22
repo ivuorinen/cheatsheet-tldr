@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `ionic serve`
 
-- Generate new app component, directive, page, pipe, provider or tabs:
+- Generate new app component, directive, page, pipe, provider, or tabs:
 
 `ionic g {{page}}`
 

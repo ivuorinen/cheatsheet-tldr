@@ -5,10 +5,10 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # choco pack
 
-> Package a NuGet specification into a `nupkg` file.
+> Package a NuGet specification into a `.nupkg` file.
 > More information: <https://docs.chocolatey.org/en-us/create/commands/pack/>.
 
-- Package a NuGet specification to a `nupkg` file:
+- Package a NuGet specification to a `.nupkg` file:
 
 `choco pack {{path	o\specification_file}}`
 
