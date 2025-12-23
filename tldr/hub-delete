@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Delete personal repo on GitHub:
 
-`hub delete {{repo}}`
+`hub delete {{repository}}`

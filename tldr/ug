@@ -3,10 +3,10 @@ syntax: markdown
 tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# rbash
+# ug
 
-> This command is an alias of `bash --restricted`.
+> This command is an alias of `ugrep --config --pretty --sort`.
 
 - View documentation for the original command:
 
-`tldr bash`
+`tldr ugrep`

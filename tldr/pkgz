@@ -20,6 +20,10 @@ source: https://github.com/tldr-pages/tldr.git
 
 `pkgz search {{package_name}}`
 
+- Show enabled sources with the package available and/or installed:
+
+`pkgz info {{package_name}}`
+
 - Update all packages in all sources:
 
 `pkgz update`
