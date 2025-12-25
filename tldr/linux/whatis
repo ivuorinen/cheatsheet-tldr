@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # whatis
 
 > Display one-line descriptions from manual pages.
-> See also: `whereis`, `which`, `type`.
+> See also: `man`, `whereis`.
 > More information: <https://manned.org/whatis>.
 
 - Display a description from a man page:
