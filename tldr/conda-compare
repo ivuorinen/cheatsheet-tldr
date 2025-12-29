@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`conda create {{[-h|--help]}}`
+`conda compare {{[-h|--help]}}`
