@@ -19,3 +19,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Make a HTML document of the full Vulkan information:
 
 `vulkaninfo --html`
+
+- Display help:
+
+`vulkaninfo {{[-h|--help]}}`

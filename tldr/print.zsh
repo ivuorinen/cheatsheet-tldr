@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # print
 
-> Z Shell (`zsh`) builtin. Prints arguments, similar to `echo`.
+> Z Shell (`zsh`) builtin. Print arguments, similar to `echo`.
 > See also: `echo`, `printf`, `zsh`.
 > More information: <https://zsh.sourceforge.io/Doc/Release/Shell-Builtin-Commands.html>.
 
