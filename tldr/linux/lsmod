@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # lsmod
 
 > Show the status of Linux kernel modules.
-> See also: `kmod` for other module management commands.
+> See also: `kmod`.
 > More information: <https://manned.org/lsmod>.
 
 - List all currently loaded kernel modules:

@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # speedtest-cli
 
 > Test internet bandwidth using <https://speedtest.net>.
-> See also: `speedtest` for the official CLI.
+> See also: `speedtest`.
 > More information: <https://github.com/sivel/speedtest-cli>.
 
 - Run a speed test:
