@@ -21,7 +21,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `acme.sh --issue --alpn {{[-d|--domain]}} {{example.com}}`
 
-- Issue a certificate using a working Nginx configuration:
+- Issue a certificate using a working `nginx` configuration:
 
 `acme.sh --issue --nginx {{[-d|--domain]}} {{example.com}}`
 
