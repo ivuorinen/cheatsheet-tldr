@@ -5,7 +5,8 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # addcomputer.py
 
-> Add a computer account to domain.
+> Add a computer account to a domain.
+> Part of the Impacket suite.
 > More information: <https://github.com/fortra/impacket>.
 
 - Add a computer with a specific name and password:
