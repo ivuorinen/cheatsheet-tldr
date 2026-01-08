@@ -19,11 +19,11 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Copy files or directories to clipboard:
 
-`Set-Clipboard -Path "{{path/to/files_or_directories}}"`
+`Set-Clipboard -Path "{{path	oiles_or_directories}}"`
 
 - Copy multiple files:
 
-`Set-Clipboard -Path "{{path/to/file1}}","{{path/to/file2}}","{{path/to/file3}}"`
+`Set-Clipboard -Path "{{path	oile1}}","{{path	oile2}}","{{path	oile3}}"`
 
 - Clear the clipboard:
 

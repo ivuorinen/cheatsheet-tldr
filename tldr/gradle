@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Exclude test task:
 
-`gradle build {{[-x|--exclude-task]}} {{test}}`
+`gradle build {{[-x|--exclude-task]}} test`
 
 - Run in offline mode to prevent Gradle from accessing the network during builds:
 
