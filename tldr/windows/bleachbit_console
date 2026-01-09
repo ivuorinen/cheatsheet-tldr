@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Shred a file:
 
-`bleachbit_console.exe --shred {{path/to/file}}`
+`bleachbit_console.exe --shred {{path	oile}}`
 
 - List available cleaner options:
 

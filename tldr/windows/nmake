@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Build targets using a specific makefile:
 
-`nmake /F {{path/to/makefile}}`
+`nmake /F {{path	o\makefile}}`
 
 - Build a specific target:
 
