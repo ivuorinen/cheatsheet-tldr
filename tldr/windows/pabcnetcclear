@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Compile the specified source file into an executable with the specified name:
 
-`pabcnetcclear /Output:{{path	o\_file.exe}} {{path	o\source_file.pas}}`
+`pabcnetcclear /Output:{{path	oile.exe}} {{path	o\source_file.pas}}`
 
 - Compile the specified source file into an executable with the same name along with/without debug information:
 

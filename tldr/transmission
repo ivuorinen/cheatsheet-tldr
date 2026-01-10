@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # transmission
 
 > A simple torrent client.
-> Transmission isn't a command, but a set of commands.
+> Note: Transmission isn't a command, but a set of commands.
 > More information: <https://transmissionbt.com/>.
 
 - View documentation for running Transmission's daemon:
