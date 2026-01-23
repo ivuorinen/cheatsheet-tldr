@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - List available power profiles:
 
-`powerprofilesctl list`
+`powerprofilesctl`
 
 - Set a specific power profile:
 

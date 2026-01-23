@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - List all known user records:
 
-`userdbctl user`
+`userdbctl`
 
 - Show details of a specific user:
 
