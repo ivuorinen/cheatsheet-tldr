@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, dos]
+source: https://github.com/tldr-pages/tldr.git
+---
+# KEYB
+
+> Change keyboard layout.
+> More information: <https://www.dosbox.com/wiki/KEYB>.
+
+- Set layout:
+
+`KEYB {{us|uk|gr|...}}`

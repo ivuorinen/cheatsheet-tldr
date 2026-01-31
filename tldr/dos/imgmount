@@ -1,0 +1,17 @@
+---
+syntax: markdown
+tags: [tldr, dos]
+source: https://github.com/tldr-pages/tldr.git
+---
+# IMGMOUNT
+
+> Mount disk or CD-ROM images.
+> More information: <https://www.dosbox.com/wiki/IMGMOUNT>.
+
+- Mount floppy:
+
+`IMGMOUNT a {{floppy.img}}`
+
+- Mount CD-ROM:
+
+`IMGMOUNT d {{cd.iso}}`
