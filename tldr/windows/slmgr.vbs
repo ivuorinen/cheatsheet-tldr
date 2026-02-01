@@ -29,7 +29,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `slmgr.vbs /ato`
 
-- [a]c[t]ivate the Windows [p]roduct license offline. Requires Administrator privileges and an Confirmation ID provided by Microsoft Product Activation Center:
+- [a]c[t]ivate the Windows [p]roduct license offline. Requires Administrator privileges and a Confirmation ID provided by Microsoft Product Activation Center:
 
 `slmgr.vbs /atp {{confirmation_id}}`
 

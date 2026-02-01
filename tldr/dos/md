@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, dos]
+source: https://github.com/tldr-pages/tldr.git
+---
+# MD
+
+> Make a directory.
+> More information: <https://www.dosbox.com/wiki/Commands#MD>.
+
+- Create directory:
+
+`MD {{path/to/directory}}`

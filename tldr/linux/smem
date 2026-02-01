@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `smem`
 
-- Print memory usage for current processes for a every user on a system:
+- Print memory usage for current processes for every user on a system:
 
 `smem --users`
 
