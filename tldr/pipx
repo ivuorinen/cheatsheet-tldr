@@ -16,6 +16,10 @@ source: https://github.com/tldr-pages/tldr.git
 
 `pipx install {{package}}`
 
+- Uninstall a package:
+
+`pipx uninstall {{package}}`
+
 - List installed packages:
 
 `pipx list`
