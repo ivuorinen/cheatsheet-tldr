@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# mo
+
+> This command is an alias of `mole`.
+
+- View documentation for the original command:
+
+`tldr mole`
