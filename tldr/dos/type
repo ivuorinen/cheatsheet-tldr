@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, dos]
+source: https://github.com/tldr-pages/tldr.git
+---
+# TYPE
+
+> Display the contents of a text file.
+> More information: <https://www.dosbox.com/wiki/Commands#TYPE>.
+
+- Show file:
+
+`TYPE {{path/to/file.txt}}`

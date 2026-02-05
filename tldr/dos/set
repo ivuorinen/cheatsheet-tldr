@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, dos]
+source: https://github.com/tldr-pages/tldr.git
+---
+# SET
+
+> Set/display environment variables.
+> More information: <https://www.dosbox.com/wiki/Commands#SET>.
+
+- Set variable:
+
+`SET {{VAR}}={{value}}`
