@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# bye
+
+> This command is an alias of `exit`.
+
+- View documentation for the original command:
+
+`tldr exit`

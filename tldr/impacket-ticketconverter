@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# impacket-ticketConverter
+
+> This command is an alias of `ticketConverter.py`.
+
+- View documentation for the original command:
+
+`tldr ticketConverter.py`

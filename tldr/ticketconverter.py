@@ -1,0 +1,18 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ticketConverter.py
+
+> Convert Kerberos tickets between kirbi and ccache formats.
+> Part of the Impacket suite.
+> More information: <https://github.com/fortra/impacket>.
+
+- Convert kirbi to ccache:
+
+`ticketConverter.py {{path/to/ticket.kirbi}} {{path/to/ticket.ccache}}`
+
+- Convert ccache to kirbi:
+
+`ticketConverter.py {{path/to/ticket.ccache}} {{path/to/ticket.kirbi}}`

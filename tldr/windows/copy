@@ -1,0 +1,34 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# copy
+
+> Copy files from one location to another.
+> In PowerShell, this command is an alias of `Copy-Item`. This documentation is based on the Command Prompt (`cmd`) version of `copy`.
+> More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/copy>.
+
+- Copy a file to another location:
+
+`copy {{path	o\source_file}} {{path	o	arget_file}}`
+
+- Copy a file into another directory, keeping the filename:
+
+`copy {{path	o\source_file}} {{path	o	arget_directory}}`
+
+- Copy multiple files to a directory:
+
+`copy {{path	oile1 path	oile2 ...}} {{path	o	arget_directory}}`
+
+- Copy all files from one directory to another directory:
+
+`copy {{path	o\source_directory\*}} {{path	o	arget_directory}}`
+
+- Copy files with a specific extension:
+
+`copy {{path	o\source_directory\*.ext}} {{path	o	arget_directory}}`
+
+- Copy a file and prompt before overwriting:
+
+`copy /-y {{path	o\source_file}} {{path	o	arget_file}}`
