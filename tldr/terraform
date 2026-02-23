@@ -28,6 +28,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `terraform apply`
 
-- Destroy Terraform-managed infrastructure:
+- Destroy all infrastructure in the current directory:
 
 `terraform destroy`
