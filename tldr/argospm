@@ -1,12 +1,12 @@
 ---
 syntax: markdown
-tags: [tldr, linux]
+tags: [tldr, common]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# genisoimage
+# argospm
 
-> This command is an alias of `mkisofs`.
+> This command is an alias of `argos-translate`.
 
 - View documentation for the original command:
 
-`tldr mkisofs`
+`tldr argos-translate`
