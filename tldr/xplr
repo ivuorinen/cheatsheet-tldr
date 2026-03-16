@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # xplr
 
-> Terminal-based file system explorer.
+> Terminal-based filesystem explorer.
 > More information: <https://xplr.dev/>.
 
 - Open a directory:
