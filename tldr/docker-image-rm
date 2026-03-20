@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`docker {{[rmi|image rm]}}`
+`docker {{[rmi|image rm]}} --help`

@@ -36,3 +36,7 @@ source: https://github.com/tldr-pages/tldr.git
 - List bookmarks:
 
 `<:>blist<Enter>`
+
+- Follow links:
+
+`<f>{{link_number}}<Enter>`

@@ -37,6 +37,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `sudo {{[-i|--login]}} {{[-u|--user]}} {{user}}`
 
-- List the allowed (and forbidden) commands for the invoking user:
+- List the allowed (and forbidden) commands for the invoking user in longer format:
 
 `sudo {{[-ll|--list --list]}}`

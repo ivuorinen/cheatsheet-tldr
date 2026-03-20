@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`docker {{[pull|image pull]}} {{[-h|--help]}}`
+`docker {{[pull|image pull]}} --help`

@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display help:
 
-`docker {{[rm|container rm]}} {{[-h|--help]}}`
+`docker {{[rm|container rm]}} --help`
