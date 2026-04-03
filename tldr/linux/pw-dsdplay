@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# pw-dsdplay
+
+> This command is an alias of `pw-cat --playback --dsd`.
+
+- View documentation for the original command:
+
+`tldr pw-cat`
