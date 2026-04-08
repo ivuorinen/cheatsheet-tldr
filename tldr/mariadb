@@ -8,6 +8,10 @@ source: https://github.com/tldr-pages/tldr.git
 > The mariadb client tool.
 > More information: <https://mariadb.com/docs/server/clients-and-utilities/mariadb-client/mariadb-command-line-client>.
 
+- Connect to MariaDB as the current user:
+
+`mariadb`
+
 - Connect to a specific MariaDB database:
 
 `mariadb {{db_name}}`
@@ -35,7 +39,3 @@ source: https://github.com/tldr-pages/tldr.git
 - Connect using a socket file for local connections:
 
 `mariadb {{[-S|--socket]}} {{path/to/socket_name}}`
-
-- Display help:
-
-`mariadb {{[-?|--help]}}`
