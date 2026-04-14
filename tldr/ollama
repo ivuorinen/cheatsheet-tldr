@@ -13,7 +13,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `ollama serve`
 
-- Run a model and chat with it:
+- Run a model and chat with it (will automatically download the model if it's not downloaded):
 
 `ollama run {{model}}`
 
