@@ -30,7 +30,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Specify the output directory for compiled files:
 
-`cl /Fo {{path	o\output_directory}}/ {{path	o\source.c}}`
+`cl /Fo {{path	o\output_directory}}\ {{path	o\source.c}}`
 
 - Compile with warnings as errors:
 

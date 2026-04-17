@@ -25,7 +25,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `tig {{base_ref}}..{{compared_ref}}`
 
-- Browse git blame interactively (press `<,>` to jump to parent):
+- Browse `git blame` interactively (press `<,>` to jump to parent):
 
 `tig blame {{path/to/file}}`
 
