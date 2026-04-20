@@ -36,3 +36,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Switch to a tag or commit:
 
 `git switch {{[-d|--detach]}} {{tag|commit}}`
+
+- Switch to another remote's branch:
+
+`git switch {{[-t|--track]}} {{remote_name}}/{{branch}}`
