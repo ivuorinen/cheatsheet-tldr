@@ -15,4 +15,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Display the location of a user directory:
 
-`xdg-user-dir {{DESKTOP|DOWNLOAD|TEMPLATES|PUBLICSHARE|DOCUMENTS|MUSIC|PICTURES|VIDEOS}}`
+`xdg-user-dir {{DESKTOP|DOWNLOAD|TEMPLATES|PUBLICSHARE|DOCUMENTS|MUSIC|PICTURES|VIDEOS|...}}`
