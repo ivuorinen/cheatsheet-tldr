@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# hugo serve
+
+> This command is an alias of `hugo server`.
+
+- View documentation for the original command:
+
+`tldr hugo server`
