@@ -11,4 +11,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Connect to an address:
 
-`plink {{IP_address}}`
+`plink {{ip_address}}`
