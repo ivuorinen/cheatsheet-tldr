@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# piper-tts
+
+> This command is an alias of `piper`.
+
+- View documentation for the original command:
+
+`tldr piper`
