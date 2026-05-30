@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# rename.ul
+
+> This command is an alias of `rename.util`.
+
+- View documentation for the original command:
+
+`tldr rename.util`

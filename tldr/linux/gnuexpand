@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gnuexpand
+
+> This command is an alias of GNU `expand`.
+
+- View documentation for the original command:
+
+`tldr expand`

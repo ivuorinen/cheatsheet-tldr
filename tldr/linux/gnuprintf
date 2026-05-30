@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gnuprintf
+
+> This command is an alias of GNU `printf`.
+
+- View documentation for the original command:
+
+`tldr printf`

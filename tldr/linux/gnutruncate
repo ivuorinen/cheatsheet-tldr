@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gnutruncate
+
+> This command is an alias of GNU `truncate`.
+
+- View documentation for the original command:
+
+`tldr truncate`

@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gnutouch
+
+> This command is an alias of GNU `touch`.
+
+- View documentation for the original command:
+
+`tldr touch`

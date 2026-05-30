@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gnuwhoami
+
+> This command is an alias of GNU `whoami`.
+
+- View documentation for the original command:
+
+`tldr whoami`

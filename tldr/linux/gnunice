@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gnunice
+
+> This command is an alias of GNU `nice`.
+
+- View documentation for the original command:
+
+`tldr nice`

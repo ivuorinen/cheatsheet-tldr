@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# gnutr
+
+> This command is an alias of GNU `tr`.
+
+- View documentation for the original command:
+
+`tldr tr`

@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# qwen-vl
+
+> The examples for this command have been moved together with `inference-snap`.
+> More information: <https://github.com/canonical/qwen-vl-snap>.
+
+- View documentation for `inference-snap`:
+
+`tldr inference-snap`
