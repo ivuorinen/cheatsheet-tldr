@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Report a bug about a specific process:
 
-`apport-bug {{PID}}`
+`apport-bug {{pid}}`
