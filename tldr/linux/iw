@@ -15,7 +15,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Join an open wireless network:
 
-`iw dev {{wlanX}} connect {{SSID}}`
+`iw dev {{wlanX}} connect {{ssid}}`
 
 - Close the current connection:
 

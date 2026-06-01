@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Connect to a wireless network with a specific SSID:
 
-`netsh wlan connect name={{SSID}}`
+`netsh wlan connect name={{ssid}}`
 
 - Disconnect from the current wireless network:
 
@@ -26,15 +26,15 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Export a wireless network profile to an XML file:
 
-`netsh wlan export profile name={{SSID}} folder={{C:\path	oolder}} key=clear`
+`netsh wlan export profile name={{ssid}} folder={{C:\path	oolder}} key=clear`
 
 - Delete a saved wireless network profile:
 
-`netsh wlan delete profile name={{SSID}}`
+`netsh wlan delete profile name={{ssid}}`
 
 - Enable hosted network (turn PC into Wi-Fi hotspot):
 
-`netsh wlan set hostednetwork mode=allow ssid={{SSID}} key={{password}}`
+`netsh wlan set hostednetwork mode=allow ssid={{ssid}} key={{password}}`
 
 - Start the hosted network:
 
