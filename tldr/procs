@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `procs --tree`
 
-- List information about processes, if the commands which started them contain Zsh:
+- List information about processes, if the commands which started them contain `zsh`:
 
 `procs {{zsh}}`
 

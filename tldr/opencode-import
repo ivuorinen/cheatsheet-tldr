@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Import from a share URL:
 
-`opencode import {{URL}}`
+`opencode import {{url}}`
 
 - Display help:
 
