@@ -34,4 +34,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Create a new `SKILL.md` template:
 
-`skills init {{[skill_name]}}`
+`skills init {{skill_name}}`

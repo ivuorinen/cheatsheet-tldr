@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# SaRAcmd OutlookCalendarCheckTask
+
+> This command is an alias of `GetHelpCmd.exe -S OutlookCalendarCheckTask`.
+
+- View documentation for the original command:
+
+`tldr gethelpcmd-outlookcalendarchecktask`
