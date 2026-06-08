@@ -12,10 +12,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `plesk login`
 
-- Show product version information:
-
-`plesk version`
-
 - List all hosted domains:
 
 `plesk bin domain --list`
@@ -31,3 +27,7 @@ source: https://github.com/tldr-pages/tldr.git
 - Open the Plesk main configuration file in the default editor:
 
 `plesk conf {{panel.ini}}`
+
+- Display version:
+
+`plesk version`

@@ -33,6 +33,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `at -l`
 
-- View a specied job:
+- View a specified job:
 
 `at -c {{job_number}}`

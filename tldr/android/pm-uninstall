@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # pm uninstall
 
 > Uninstall a package.
-> More information: <https://developer.android.com/tools/adb>.
+> More information: <https://developer.android.com/tools/adb#pm>.
 
 - Uninstall a package from the device:
 
