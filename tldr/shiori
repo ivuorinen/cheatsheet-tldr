@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Start the web interface for managing bookmarks at port 8181:
 
-`shiori serve --port {{8181}}`
+`shiori serve --port 8181`
