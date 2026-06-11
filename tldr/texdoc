@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Open full documentation of texdoc:
 
-`texdoc {{texdoc}}`
+`texdoc texdoc`
