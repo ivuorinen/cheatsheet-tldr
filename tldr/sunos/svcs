@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # svcs
 
 > List information about running services.
-> More information: <https://www.unix.com/man-page/linux/1/svcs>.
+> More information: <https://www.unix.com/man-page/sunos/1/svcs>.
 
 - List all running services:
 
