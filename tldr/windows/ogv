@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# ogv
+
+> In PowerShell, this command is an alias of `Out-GridView`.
+
+- View documentation for the original command:
+
+`tldr out-gridview`
