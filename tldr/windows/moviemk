@@ -1,0 +1,26 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# moviemk
+
+> Create and edit videos.
+> Note: This program has been deprecated.
+> More information: <https://learn.microsoft.com/previous-versions/windows/desktop/wmmdvdm/command-line-options-for-windows-movie-maker>.
+
+- Launch Windows Movie Maker:
+
+`moviemk`
+
+- Open an existing Windows Movie Maker project file:
+
+`moviemk {{path	oile.mswmm}}`
+
+- Import a new audio, image, or video asset into an existing project:
+
+`moviemk {{path	osset}}`
+
+- Import assets predefined by a Windows Movie Maker import file list XML file:
+
+`moviemk {{path	oile.xml}}`
