@@ -27,7 +27,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Show neighbors (ARP table):
 
-`ip {{[n|neighbour]}}`
+`ip {{[n|neighbor]}}`
 
 - Make an interface up/down:
 
