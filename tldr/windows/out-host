@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `{{command_or_variable}} | Out-Host -Paging`
 
-- Interactively display a text file within the paging view (equivalent to `more {{path/to/file}}`):
+- Interactively display a text file within the paging view (equivalent to `more path/to/file`):
 
 `Get-Content {{path	oile}} | Out-Host -Paging`
 
