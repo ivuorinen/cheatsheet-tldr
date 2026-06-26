@@ -1,0 +1,41 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# powerpnt
+
+> Microsoft Office's presentation application.
+> More information: <https://support.microsoft.com/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6#category=powerpoint%2C_powerpoint_viewer>.
+
+- Launch the presentation application:
+
+`powerpnt`
+
+- Create a new [b]lank presentation:
+
+`powerpnt /b`
+
+- Create a [n]ew presentation from a template:
+
+`powerpnt /n {{path	oile.potm}}`
+
+- [o]pen one or more files:
+
+`powerpnt /o {{path	oile1.pptx path	oile2.pptx ...}}`
+
+- Open a file in [s]lideshow mode:
+
+`powerpnt /s {{path	oile.pptx}}`
+
+- Open a presentation, then execute a specific [m]acro:
+
+`powerpnt /m {{path	oile.pptm}} "{{MacroName}}"`
+
+- Print a presentation via the Print dialog:
+
+`powerpnt /pwo {{path	oile.pptx}}`
+
+- Directly [p]rint a presentation [t]o a specific printer:
+
+`powerpnt /pt {{printer_name}} {{path	oile.pptx}}`
