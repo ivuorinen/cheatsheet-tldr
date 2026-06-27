@@ -1,0 +1,14 @@
+---
+syntax: markdown
+tags: [tldr, osx]
+source: https://github.com/tldr-pages/tldr.git
+---
+# amfid
+
+> Mobile file integrity services.
+> It should not be invoked manually.
+> More information: <https://keith.github.io/xcode-man-pages/amfid.8.html>.
+
+- Start the daemon:
+
+`amfid`
