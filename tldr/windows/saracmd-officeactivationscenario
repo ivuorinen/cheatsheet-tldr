@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, windows]
+source: https://github.com/tldr-pages/tldr.git
+---
+# SaRAcmd OfficeActivationScenario
+
+> This command is an alias of `GetHelpCmd.exe -S OfficeActivationScenario`.
+
+- View documentation for the original command:
+
+`tldr gethelpcmd-officeactivationscenario`

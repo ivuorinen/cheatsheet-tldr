@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `start "{{window_title}}" {{cmd|powershell|python|...}}`
 
-- Open a specific directory on Windows Explorer (equivalent to `explorer {{path	o\directory}}`):
+- Open a specific directory on Windows Explorer (equivalent to `explorer path	o\directory`):
 
 `start "" "{{path	o\directory}}"`
 

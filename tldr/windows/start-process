@@ -9,7 +9,7 @@ source: https://github.com/tldr-pages/tldr.git
 > Can also be used to run Windows programs registered in the `App Paths` Windows Registry despite not registered in `PATH` environment variable.
 > More information: <https://learn.microsoft.com/powershell/module/microsoft.powershell.management/start-process>.
 
-- Open a specific directory on Windows Explorer (equivalent to `explorer {{path	o\directory}}`):
+- Open a specific directory on Windows Explorer (equivalent to `explorer path	o\directory`):
 
 `Start-Process {{path	o\directory}}`
 
