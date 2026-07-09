@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# storagectl
+
+> Enumerate and mount storage volumes.
+> More information: <https://www.freedesktop.org/software/systemd/man/latest/storagectl.html>.
+
+- List available storage volumes:
+
+`storagectl`

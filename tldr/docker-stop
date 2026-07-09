@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# docker stop
+
+> This command is an alias of `docker container stop`.
+
+- View documentation for the original command:
+
+`tldr docker container stop`
