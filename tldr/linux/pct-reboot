@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Reboot a container:
 
-`pct reboot {{100}}`
+`pct {{[reb|reboot]}} {{100}}`
