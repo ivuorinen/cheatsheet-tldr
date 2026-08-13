@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Add Linux as a boot option:
 
-`sudo efibootmgr {{[-c|--create]}} {{[-d|--disk]}} {{/dev/sda}} {{[-p|--part]}} {{1}} {{[-l|--loader]}} "{{path	omlinuz}}" {{[-u|--unicode]}} "{{root=UUID=drive_uuid rw loglevel=3 initrd=path	o\initramfs-linux.img}}" {{[-L|--label]}} "{{Linux}}"`
+`sudo efibootmgr {{[-c|--create]}} {{[-d|--disk]}} {{/dev/sda}} {{[-p|--part]}} {{1}} {{[-l|--loader]}} "{{path	omlinuz}}" {{[-u|--unicode]}} "{{root=UUID=partition_uuid rw loglevel=3 initrd=path	o\initramfs-linux.img}}" {{[-L|--label]}} "{{Linux}}"`
 
 - Change the current boot order:
 

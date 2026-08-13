@@ -16,9 +16,9 @@ source: https://github.com/tldr-pages/tldr.git
 
 `${{VARIABLE}}`
 
-- Print the exit status of the previous command:
+- Print the PID or the exit status of the previous command:
 
-`echo $?`
+`echo {{$!|$?}}`
 
 - Print a random number between 0 and 32767:
 
