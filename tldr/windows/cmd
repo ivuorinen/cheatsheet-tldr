@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Execute specific [c]ommands:
 
-`cmd /c {{echo Hello world}}`
+`cmd /c {{echo cmd is executed}}`
 
 - Execute a specific script:
 
@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Execute specific commands and then enter an interactive shell:
 
-`cmd /k {{echo Hello world}}`
+`cmd /k {{echo cmd is executed}}`
 
 - Start an interactive shell session where `echo` is disabled in command output:
 
