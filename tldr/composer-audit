@@ -6,7 +6,6 @@ source: https://github.com/tldr-pages/tldr.git
 # composer audit
 
 > Analyze a PHP project's dependencies to detect known security vulnerabilities and list affected packages.
-> See also: `composer`.
 > More information: <https://getcomposer.org/doc/03-cli.md#audit>.
 
 - Check for security vulnerabilities in your current project:
