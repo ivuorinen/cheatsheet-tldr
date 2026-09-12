@@ -3,10 +3,10 @@ syntax: markdown
 tags: [tldr, linux]
 source: https://github.com/tldr-pages/tldr.git
 ---
-# semanage-user
+# semanage user
 
 > Manage SELinux user mappings.
-> See also: `semanage`, `semanage-login`.
+> See also: `semanage login`.
 > More information: <https://manned.org/semanage-user>.
 
 - List all SELinux users:
