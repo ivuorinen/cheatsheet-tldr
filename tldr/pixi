@@ -28,10 +28,10 @@ source: https://github.com/tldr-pages/tldr.git
 
 `pixi task {{command}}`
 
-- Display help:
-
-`pixi {{command}} --help`
-
 - Clean environment and task cache:
 
 `pixi clean`
+
+- Display help:
+
+`pixi {{command}} --help`

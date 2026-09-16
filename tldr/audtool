@@ -33,10 +33,10 @@ source: https://github.com/tldr-pages/tldr.git
 
 `audtool mainwin-show`
 
-- Display help:
-
-`audtool help`
-
 - Display settings:
 
 `audtool preferences-show`
+
+- Display help:
+
+`audtool help`

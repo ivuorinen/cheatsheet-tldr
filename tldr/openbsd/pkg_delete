@@ -17,6 +17,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `pkg_delete -a {{package}}`
 
-- Dry-run deletion of a package:
+- Simulate deleting a package:
 
 `pkg_delete -n {{package}}`
