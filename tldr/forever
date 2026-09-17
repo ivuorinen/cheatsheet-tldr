@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Stop a running "forever" process:
 
-`forever stop {{id|pid|script}}`
+`forever stop {{process_id}}`

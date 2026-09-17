@@ -29,6 +29,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `Invoke-Item -Path {{path	o\directory}}\* -Exclude {{*keyword*}}`
 
-- Perform a dry run to determine which files will be opened inside a directory through `Invoke-Item`:
+- Simulate a run to determine which files will be opened inside a directory through `Invoke-Item`:
 
 `Invoke-Item -Path {{path	o\directory}}\* -WhatIf`
