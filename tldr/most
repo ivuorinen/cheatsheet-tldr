@@ -34,7 +34,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Split the current window in half:
 
-`<CTRL x><o>`
+`<Ctrl x><o>`
 
 - Exit:
 

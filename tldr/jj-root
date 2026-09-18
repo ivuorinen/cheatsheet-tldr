@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# jj root
+
+> This command is an alias of `jj workspace root`.
+
+- View documentation for the original command:
+
+`tldr jj workspace root`

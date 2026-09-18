@@ -17,7 +17,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `whatis {{[-l|--long]}} {{command}}`
 
-- Display descriptions for all commands matching a glob:
+- Display descriptions for all commands matching a `glob`:
 
 `whatis {{[-w|--wildcard]}} {{net*}}`
 

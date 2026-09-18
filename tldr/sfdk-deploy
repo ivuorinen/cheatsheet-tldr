@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `sfdk deploy --{{method}} {{[-n|--dry-run]}}`
 
-- Deploy files in glob pattern `package*`:
+- Deploy files in `glob` pattern `package*`:
 
 `sfdk deploy --{{method}} "+package*"`
 

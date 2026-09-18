@@ -28,6 +28,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `taskkill /pid {{process_id}} /s {{remote_name}}`
 
-- Display information about the usage of the command:
+- Display help:
 
 `taskkill /?`
