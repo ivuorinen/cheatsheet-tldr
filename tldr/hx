@@ -25,7 +25,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `<:>theme {{theme_name}}`
 
-- Save and Quit:
+- Save and quit:
 
 `<:>wq<Enter>`
 
