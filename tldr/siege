@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # siege
 
 > HTTP loadtesting and benchmarking tool.
-> More information: <https://www.joedog.org/siege-manual/>.
+> More information: <https://www.joedog.org/siege/manual/>.
 
 - Test a URL with default settings:
 

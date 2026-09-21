@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `nagios -d`
 
-- Start `nagios`, print service check scheduling information to `stdout`, then shutdown:
+- Start `nagios`, print service check scheduling information to `stdout`, then shut down:
 
 `nagios -s`
 

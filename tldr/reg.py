@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # reg.py
 
-> Query, add, delete, save or backup registry keys/values on a remote Windows machine over SMB/RPC.
+> Query, add, delete, save or back up registry keys/values on a remote Windows machine over SMB/RPC.
 > Part of the Impacket suite.
 > More information: <https://github.com/fortra/impacket>.
 
@@ -29,6 +29,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `reg.py {{domain}}/{{username}}:{{password}}@{{target}} save -keyName '{{HKLM\SOFTWARExample}}' -o '\{{target}}\{{share}}\{{output_file.reg}}'`
 
-- Backup SAM, SYSTEM and SECURITY hives to a file on a target via UNC path (requires SYSTEM privileges):
+- Back up SAM, SYSTEM, and SECURITY hives to a file on a target via UNC path (requires SYSTEM privileges):
 
 `reg.py {{domain}}/{{username}}:{{password}}@{{target}} backup -o '\{{target}}\{{share}}'`

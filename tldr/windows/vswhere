@@ -12,11 +12,11 @@ source: https://github.com/tldr-pages/tldr.git
 
 `vswhere -products * -latest -prerelease -find **\VC\Auxiliary\Buildcvarsall.bat`
 
-- Find the directory of the x64 MSVC compiler (`cl.exe`, etc):
+- Find the directory of the x64 MSVC compiler (`cl.exe`, etc.):
 
 `vswhere -products * -latest -prerelease -find **\Hostx64d\*`
 
-- Find the directory of Clang bundled with Visual Studio bundled (clang-cl, clang-tidy, etc):
+- Find the directory of Clang bundled with Visual Studio bundled (clang-cl, clang-tidy, etc.):
 
 `vswhere -products * -latest -prerelease -find **\Llvmin\*`
 

@@ -20,7 +20,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `papermc restart`
 
-- Backup a world:
+- Back up a world:
 
 `papermc backup`
 
