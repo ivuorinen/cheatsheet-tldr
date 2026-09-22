@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `MOUNT C {{C:\path	o\directory}}`
 
-- Mount with free space limit (MB):
+- Mount with a free space limit (in MB):
 
 `MOUNT C {{C:\path	o\directory}} -freesize {{1024}}`
 

@@ -38,6 +38,6 @@ ew_or_existing_key}}`
 
 `mv -Confirm {{path	o\source}} {{path	o	arget}}`
 
-- Simulate moving files, showing files and directories which could be moved without executing them:
+- Simulate moving files, showing the files and directories which could be moved without executing them:
 
 `mv -WhatIf {{path	o\source}} {{path	o	arget}}`

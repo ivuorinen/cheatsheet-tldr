@@ -16,7 +16,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `paccache {{[-rk|--remove --keep]}} {{num_versions}}`
 
-- Simulate a run and show the number of candidate packages for deletion:
+- Simulate the cleaning and show the number of candidate packages for deletion:
 
 `paccache {{[-d|--dryrun]}}`
 

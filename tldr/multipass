@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `multipass find`
 
-- Launch a new instance, set its name and use a cloud-init configuration file:
+- Launch a new instance, set its name, and use a cloud-init configuration file:
 
 `multipass launch {{[-n|--name]}} {{instance_name}} --cloud-init {{configuration_file}}`
 

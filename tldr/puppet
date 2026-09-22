@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `puppet apply {{path/to/file.pp}}`
 
-- Apply a manifest in no operation (dry-run) mode to preview changes:
+- Simulate applying a manifest to preview changes:
 
 `puppet apply --noop {{path/to/file.pp}}`
 

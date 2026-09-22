@@ -16,6 +16,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `DIR /p`
 
-- Wide view:
+- List files in wide format:
 
 `DIR /w`
