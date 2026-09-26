@@ -24,6 +24,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `sudo f5fpc --info`
 
-- Shutdown the VPN connection:
+- Shut down the VPN connection:
 
 `sudo f5fpc --stop`

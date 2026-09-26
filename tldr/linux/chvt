@@ -6,6 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # chvt
 
 > Change foreground virtual terminal.
+> See also: `fgconsole`.
 > More information: <https://manned.org/chvt>.
 
 - Change to a specific TTY:

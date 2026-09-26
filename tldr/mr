@@ -20,6 +20,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `mr status`
 
-- Checkout all repositories to the latest version:
+- Check out all repositories to the latest version:
 
 `mr checkout`

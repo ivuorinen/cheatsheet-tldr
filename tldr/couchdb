@@ -24,6 +24,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `couchdb -k`
 
-- Shutdown the background process:
+- Shut down the background process:
 
 `couchdb -d`

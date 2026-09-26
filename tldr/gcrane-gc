@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `gcrane gc {{repository}}`
 
-- Whether to recurse through repositories:
+- Recurse through repositories:
 
 `gcrane gc {{repository}} {{[-r|--recursive]}}`
 

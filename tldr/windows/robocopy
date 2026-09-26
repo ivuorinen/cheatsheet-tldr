@@ -17,7 +17,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `robocopy {{path	o\source_directory}} {{path	o\destination_directory}} /E`
 
-- Mirror/Sync a directory, deleting anything not in source and include all attributes and permissions:
+- Mirror/Sync a directory, deleting anything not in source, and include all attributes and permissions:
 
 `robocopy {{path	o\source_directory}} {{path	o\destination_directory}} /MIR /COPYALL`
 
