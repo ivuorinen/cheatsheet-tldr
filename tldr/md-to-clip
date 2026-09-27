@@ -19,7 +19,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Convert a tldr-page file to `stdout`:
 
-`md-to-clip --no-file-save <(echo '{{page-content}}')`
+`md-to-clip --no-file-save <(echo '{{page_content}}')`
 
 - Convert tldr-pages files while recognizing additional placeholders from a specific config:
 
