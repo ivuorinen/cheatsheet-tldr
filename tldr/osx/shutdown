@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # shutdown
 
-> Shutdown and reboot the system.
+> Shut down and reboot the system.
 > More information: <https://keith.github.io/xcode-man-pages/shutdown.8.html>.
 
 - Power off (halt) immediately:

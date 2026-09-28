@@ -13,7 +13,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `Start-Service -Name {{service_name}}`
 
-- Display information without starting a service:
+- Simulate starting a service, displaying what would happen:
 
 `Start-Service -DisplayName *{{name}}* -WhatIf`
 

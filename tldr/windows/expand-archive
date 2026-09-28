@@ -16,6 +16,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `Expand-Archive -Path {{path	oxample.zip}} -DestinationPath {{path	oxtracted_files}} -Force`
 
-- Preview without extracting:
+- Simulate extracting an archive without extracting anything:
 
 `Expand-Archive -Path {{path	oxample.zip}} -DestinationPath {{path	oxtracted_files}} -WhatIf`

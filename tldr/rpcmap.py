@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # rpcmap.py
 
-> Lookup listening MSRPC interfaces using a string binding (e.g., `ncacn_ip_tcp:host[port]`).
+> Look up listening MSRPC interfaces using a string binding (e.g., `ncacn_ip_tcp:host[port]`).
 > Part of the Impacket suite.
 > More information: <https://github.com/fortra/impacket>.
 
