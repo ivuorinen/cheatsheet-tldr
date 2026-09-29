@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `mopac {{path/to/input_file}}`
 
-- Minimal working example with HF that writes to the current directory and streams the output file:
+- Run a minimal working example with HF that writes to the current directory and streams the output file:
 
 `touch test.out; echo "PM7
 #comment
