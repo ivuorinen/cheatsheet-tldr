@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Customize the output format:
 
-`docker search {{[-f|--format]}} "{{.Name}}: {{.Description}}" {{keyword}}`
+`docker search {{[-f|--format]}} "\{\{.Name\}\}: \{\{.Description\}\}" {{keyword}}`

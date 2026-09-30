@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Change the columns format to display container's CPU usage percentage:
 
-`docker {{[stats|container stats]}} --format "{{.Name}}:	{{.CPUPerc}}"`
+`docker {{[stats|container stats]}} --format "\{\{.Name\}\}:	\{\{.CPUPerc\}\}"`
 
 - Display statistics for all containers (both running and stopped):
 
