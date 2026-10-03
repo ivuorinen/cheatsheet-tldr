@@ -36,6 +36,6 @@ source: https://github.com/tldr-pages/tldr.git
 
 `sbt -sbt-jar {{path}}`
 
-- List all sbt options:
+- Display help:
 
 `sbt -h`
