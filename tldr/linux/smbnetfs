@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Make shares available at `mountpoint`:
 
-`smbnetfs {{mountpoint}}`
+`smbnetfs {{path/to/mount_point}}`
