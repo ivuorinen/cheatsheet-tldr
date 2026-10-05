@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # clear
 
-> Clears the screen of the terminal.
+> Clear the screen of the terminal.
 > More information: <https://manned.org/clear>.
 
 - Clear the screen:

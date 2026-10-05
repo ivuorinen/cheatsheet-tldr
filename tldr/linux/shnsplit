@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # shnsplit
 
-> Splits audio files according to a `.cue` file.
+> Split audio files according to a `.cue` file.
 > More information: <http://shnutils.freeshell.org/shntool/>.
 
 - Split a `.wav` + `.cue` file into multiple files:

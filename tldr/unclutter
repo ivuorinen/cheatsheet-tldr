@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # unclutter
 
-> Hides the mouse cursor.
+> Hide the mouse cursor.
 > More information: <https://manned.org/unclutter.1x>.
 
 - Hide mouse cursor after 3 seconds:

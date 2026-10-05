@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # cls
 
-> Clears the screen.
+> Clear the screen.
 > In PowerShell, this command is an alias of `Clear-Host`. This documentation is based on the Command Prompt (`cmd`) version of `cls`.
 > More information: <https://learn.microsoft.com/windows-server/administration/windows-commands/cls>.
 
