@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # fmtutil
 
 > Manage TeX formats and Metafont bases.
-> More information: <https://manned.org/fmtutil-sys>.
+> More information: <https://manned.org/fmtutil>.
 
 - Recreate all format files:
 
@@ -27,3 +27,11 @@ source: https://github.com/tldr-pages/tldr.git
 - Recreate a specific format:
 
 `fmtutil --byfmt {{format}}`
+
+- Recreate all system format files:
+
+`fmtutil --sys --all`
+
+- Recreate all user format files:
+
+`fmtutil --user --all`

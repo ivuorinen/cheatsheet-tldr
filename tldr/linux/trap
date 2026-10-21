@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Execute a command when a signal is received:
 
-`trap 'echo "Caught signal {{SIGHUP}}"' {{[HUP|SIGHUP]}}`
+`trap 'echo "Caught signal {{SIGHUP}}"' {{[1|SIGHUP]}}`
 
 - Remove commands:
 
@@ -26,7 +26,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Ignore a signal:
 
-`trap '' {{[INT|SIGINT]}}`
+`trap '' {{[2|SIGINT]}}`
 
 - Display help:
 

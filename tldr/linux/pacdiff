@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `pacdiff`
 
-- Use sudo and sudoedit to remove and merge files:
+- Use `sudo` and `sudoedit` to remove and merge files:
 
 `pacdiff {{[-s|--sudo]}}`
 
