@@ -17,7 +17,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `host -t {{field}} {{domain}}`
 
-- Reverse lookup an IP:
+- Reverse look up an IP:
 
 `host {{ip_address}}`
 
