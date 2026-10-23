@@ -5,7 +5,7 @@ source: https://github.com/tldr-pages/tldr.git
 ---
 # goldeneye.py
 
-> A HTTP DoS test tool.
+> An HTTP DoS test tool.
 > More information: <https://github.com/jseidl/GoldenEye#usage>.
 
 - Test a specific website:
