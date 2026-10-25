@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Run a jar file:
 
-`kotlin {{filename.jar}}`
+`kotlin {{filename}}.jar`
 
 - Display Kotlin and JVM version:
 
