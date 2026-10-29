@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Generate a CSV file with the translation progress of various files:
 
-`pocount --csv {{translation_*.ts}} > {{path/to/translation_progress.csv}}`
+`pocount --csv {{translation_*.ts}} >{{path/to/translation_progress.csv}}`

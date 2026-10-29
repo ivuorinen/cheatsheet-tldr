@@ -39,4 +39,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Save current configuration:
 
-`sudo nft list ruleset > {{/etc/nftables.conf}}`
+`sudo nft list ruleset >{{/etc/nftables.conf}}`

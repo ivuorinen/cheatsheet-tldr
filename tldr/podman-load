@@ -23,4 +23,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Load an image from `stdin`:
 
-`podman < {{path/to/file.tar}} load`
+`podman <{{path/to/file.tar}} load`

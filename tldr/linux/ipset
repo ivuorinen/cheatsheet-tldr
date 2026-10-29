@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Save an IP set:
 
-`ipset save {{set_name}} > {{path/to/ip_set}}`
+`ipset save {{set_name}} >{{path/to/ip_set}}`

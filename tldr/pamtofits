@@ -11,4 +11,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Convert a Netpbm image to the FITS format:
 
-`pamtofits {{path/to/image.pam}} > {{path/to/output.fits}}`
+`pamtofits {{path/to/image.pam}} >{{path/to/output.fits}}`

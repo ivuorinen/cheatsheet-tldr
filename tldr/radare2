@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - [Interactive] Dump raw bytes of current block to a file:
 
-`pr > {{path/to/file.bin}}`
+`pr >{{path/to/file.bin}}`

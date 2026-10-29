@@ -10,4 +10,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Convert a PBM image to a Zinc bitmap:
 
-`pbmtozinc {{path/to/image.pbm}} > {{path/to/output.zinc}}`
+`pbmtozinc {{path/to/image.pbm}} >{{path/to/output.zinc}}`

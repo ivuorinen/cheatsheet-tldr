@@ -23,7 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Copy an image:
 
-`wl-copy < {{path/to/image}}`
+`wl-copy <{{path/to/image}}`
 
 - Clear the clipboard:
 

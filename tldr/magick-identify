@@ -19,4 +19,4 @@ source: https://github.com/tldr-pages/tldr.git
 - Collect dimensions of all JPEG files in the current directory and save them into a CSV file:
 
 `magick identify -format "{{%f,%w,%h
-}}" {{*.jpg}} > {{path/to/filelist.csv}}`
+}}" {{*.jpg}} >{{path/to/filelist.csv}}`

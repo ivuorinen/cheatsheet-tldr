@@ -31,7 +31,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `echo -e "{{red}}
 {{green}}
-{{blue}}" | fuzzel {{[-d|--dmenu]}} > {{color.txt}}`
+{{blue}}" | fuzzel {{[-d|--dmenu]}} >{{color.txt}}`
 
 - Reset apps usage count (default cache directory: `$XDG_CACHE_HOME/fuzzel`):
 

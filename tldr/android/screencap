@@ -19,7 +19,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Take a screenshot and save it over an `adb` connection:
 
-`adb shell screencap -p > {{path/to/image.png}}`
+`adb shell screencap -p >{{path/to/image.png}}`
 
 - Display help:
 

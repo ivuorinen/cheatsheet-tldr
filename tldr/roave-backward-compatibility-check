@@ -22,4 +22,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Check for breaking changes and output to Markdown:
 
-`roave-backward-compatibility-check --format=markdown > {{results.md}}`
+`roave-backward-compatibility-check --format=markdown >{{results.md}}`

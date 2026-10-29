@@ -24,7 +24,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `echo -e "{{red}}
 {{green}}
-{{blue}}" | dmenu > {{color.txt}}`
+{{blue}}" | dmenu >{{color.txt}}`
 
 - Launch dmenu on a specific monitor:
 

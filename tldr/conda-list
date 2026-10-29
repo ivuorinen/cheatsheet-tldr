@@ -26,4 +26,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Save packages for future use:
 
-`conda list {{[-e|--export]}} > {{path/to/package-list.txt}}`
+`conda list {{[-e|--export]}} >{{path/to/package-list.txt}}`

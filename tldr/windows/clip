@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Copy the contents of a file to the Windows clipboard:
 
-`clip < {{path	oile.ext}}`
+`clip <{{path	oile.ext}}`
 
 - Copy text with a trailing newline to the Windows clipboard:
 

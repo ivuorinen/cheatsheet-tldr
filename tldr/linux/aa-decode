@@ -18,7 +18,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Decode logs from `stdin` (e.g., redirected file):
 
-`sudo aa-decode - < {{logfile}}`
+`sudo aa-decode - <{{logfile}}`
 
 - Display help:
 

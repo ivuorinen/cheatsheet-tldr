@@ -11,4 +11,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Convert the specified PGM image to Usenix FaceSave format:
 
-`pgmtofs {{path/to/input.pgm}} > {{path/to/output.fs}}`
+`pgmtofs {{path/to/input.pgm}} >{{path/to/output.fs}}`

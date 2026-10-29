@@ -15,7 +15,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Log output of `virt-what` into a file:
 
-`virt-what > {{path/to/file}}`
+`virt-what >{{path/to/file}}`
 
 - Display version:
 

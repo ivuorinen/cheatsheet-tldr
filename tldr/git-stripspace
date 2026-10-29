@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Convert all lines in a file into Git comments:
 
-`git < {{path/to/file}} stripspace {{[-c|--comment-lines]}}`
+`git <{{path/to/file}} stripspace {{[-c|--comment-lines]}}`
