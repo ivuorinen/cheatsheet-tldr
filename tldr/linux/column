@@ -13,7 +13,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `printf "header1 header2
 bar foo
-" | column {{[-c|--output-width]}} {{30}}`
+" | column {{[-c|--output-width]}} 30`
 
 - Split columns automatically and auto-align them in a tabular format:
 
