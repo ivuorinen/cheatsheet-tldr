@@ -26,7 +26,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Prepend a `{` and append a `}` to the results:
 
-`fd --format "\{\{{}\}\}"`
+`fd --format "\{\{ {} \}\}"`
 
 - Prepend text to the results:
 
