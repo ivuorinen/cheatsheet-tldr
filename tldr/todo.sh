@@ -26,7 +26,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Set an item's [pri]ority (A-Z):
 
-`todo.sh pri {{item_no}} {{priority}}`
+`todo.sh pri {{item_no}} {{A..Z}}`
 
 - Replace an item:
 
