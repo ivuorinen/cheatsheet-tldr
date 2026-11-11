@@ -6,7 +6,7 @@ source: https://github.com/tldr-pages/tldr.git
 # trace-cmd
 
 > Utility to interact with the Ftrace Linux kernel internal tracer.
-> See also: `trace-cmd list`, `trace-cmd record`, `trace-cmd report`.
+> Some subcommands such as `list`, `record`, `report` have their own usage documentation.
 > More information: <https://manned.org/trace-cmd>.
 
 - Display the status of tracing system:
