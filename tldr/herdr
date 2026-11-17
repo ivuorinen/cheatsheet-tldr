@@ -32,7 +32,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Create new workspace (inside a herdr session):
 
-`<Ctrl b><Shift n>`
+`<Ctrl b><N>`
 
 - Create new tab (inside a herdr session):
 

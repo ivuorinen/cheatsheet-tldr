@@ -10,7 +10,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Edit the password file:
 
-`vipw`
+`sudo vipw`
 
 - Display version:
 

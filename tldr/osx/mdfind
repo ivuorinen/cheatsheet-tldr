@@ -18,4 +18,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Find a file containing a string, in a given directory:
 
-`mdfind -onlyin {{directory}} "{{query}}"`
+`mdfind -onlyin {{path/to/directory}} "{{query}}"`

@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# fsck.ext2
+
+> This command is an alias of `e2fsck`.
+
+- View documentation for the original command:
+
+`tldr e2fsck`

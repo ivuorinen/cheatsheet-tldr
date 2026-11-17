@@ -23,7 +23,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Execute a command from a specific path on a remote target:
 
-`psexec.py -path {{path}} {{domain}}/{{username}}:{{password}}@{{target}} {{command}}`
+`psexec.py -path "{{path	oemote_directory}}" {{domain}}/{{username}}:{{password}}@{{target}} {{command}}`
 
 - Authenticate using pass-the-hash authentication instead of a password:
 
