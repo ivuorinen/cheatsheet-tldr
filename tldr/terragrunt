@@ -30,4 +30,4 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Build or change infrastructure from a tree of Terragrunt modules (stack):
 
-`terragrunt run-all apply`
+`terragrunt run --all apply`
