@@ -1,0 +1,13 @@
+---
+syntax: markdown
+tags: [tldr, linux]
+source: https://github.com/tldr-pages/tldr.git
+---
+# Starbound
+
+> Start a headless Starbound server.
+> More information: <https://starbounder.org/Guide:LinuxServerSetup>.
+
+- Start the server:
+
+`{{path/to}}/run-server.sh`

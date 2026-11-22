@@ -14,7 +14,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Run server:
 
-`agate {{path/to/file}}`
+`agate {{path/to/directory}}`
 
 - Display help:
 
