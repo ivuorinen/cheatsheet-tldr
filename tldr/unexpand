@@ -12,7 +12,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 `unexpand {{path/to/file}}`
 
-- Convert blanks to tabs, reading from `stdout`:
+- Convert blanks to tabs, reading from `stdin`:
 
 `unexpand`
 

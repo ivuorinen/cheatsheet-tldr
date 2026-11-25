@@ -22,7 +22,7 @@ source: https://github.com/tldr-pages/tldr.git
 
 - Rebuild a package in a specific directory:
 
-`npm {{[rb|rebuild]}} --prefix {{path/to/dir}} {{package}}`
+`npm {{[rb|rebuild]}} --prefix {{path/to/directory}} {{package}}`
 
 - Rebuild without using the npm cache:
 

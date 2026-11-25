@@ -1,0 +1,12 @@
+---
+syntax: markdown
+tags: [tldr, common]
+source: https://github.com/tldr-pages/tldr.git
+---
+# glab co
+
+> This command is an alias of `glab mr checkout`.
+
+- View documentation for the original command:
+
+`tldr glab mr`
